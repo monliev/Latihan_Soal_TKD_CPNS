@@ -1,0 +1,6678 @@
+[{
+  "comment": "",
+  "id_category": 1,
+  "alternatives": [{
+    "is_correct": true,
+    "alternative": "perbedaan pengertian rayonisasi dulu dengan sekarang",
+    "id": 49,
+    "question_id": 1
+  },
+    {
+      "is_correct": false,
+      "alternative": "rayonisasi adalah mengelompokkan anak untuk melanjutkan",
+      "id": 50,
+      "question_id": 1
+    },
+    {
+      "is_correct": false,
+      "alternative": "rayonisasi adalah wujud yang bersifat pelayanan",
+      "id": 51,
+      "question_id": 1
+    },
+    {
+      "is_correct": false,
+      "alternative": "kebebasan murid untuk memilih sekolah",
+      "id": 52,
+      "question_id": 1
+    }],
+  "created_at": {
+    "$date": 1394246929000
+  },
+  "question": "\"Rayonisasi dulu dan sekarang itu berbeda\". Kalau dulu rayonisasi mengelompokkan anak untuk melanjutkan sekolah pada daerah tertentu, sekarang hanya membantu orang tua murid mendaftar sekolah. Jadi lebih bersifat pelayanan. \"Sekarang, murid bebas memilih sekolah\", kata Abdul Rochim, Kepala Subdinas Pendidikan Sekolah Lanjutan Tingkat Pertama (SLTP) Dinas Pendidikan Dasar Provinsi DKI Jakarta, saat ditemui Kompas sebelum acara Sosialisasi PSB 2002-2003 di Jakarta, Jumat (10/5). (Sumber: Kompas, Sabtu, 11 Mei 2002). Gagasan utama paragraf di atas adalah ........",
+  "id": 1,
+  "id_google": 1256,
+  "answer": null,
+  "type_question": 1
+},
+  {
+    "comment": "",
+    "id_category": 2,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Tanaman padi yang mengalami kekeringan berat di Subang dan Blora berjumlah 249 h",
+      "id": 37,
+      "question_id": 2
+    },
+      {
+        "is_correct": false,
+        "alternative": "Tanaman padi di Jepara dan Blora mengalami kekeringan secara keseluruhan berjumlah 565 h",
+        "id": 38,
+        "question_id": 2
+      },
+      {
+        "is_correct": false,
+        "alternative": "Tanaman padi yang mengalami kekeringan ringan di Bekasi dan Karawang berjumlah 1175 h",
+        "id": 39,
+        "question_id": 2
+      },
+      {
+        "is_correct": true,
+        "alternative": "Tanaman padi yang terancam kekeringan di daerah Indramayu berjumlah 10489 h",
+        "id": 40,
+        "question_id": 2
+      }],
+    "created_at": {
+      "$date": 1394247254000
+    },
+    "question": "Kalimat yang berisi penjelasan isi tabel di atas yang tepat adalah ........",
+    "id": 2,
+    "id_google": 1293,
+    "answer": null,
+    "type_question": 1
+  },
+  {
+    "comment": "  ",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Kapan A.Navis mulai mengikuti perkembangan kesusastraan secara aktif?",
+      "id": 77,
+      "question_id": 3
+    },
+      {
+        "is_correct": false,
+        "alternative": "Bagaimana pandangan A.Navis terhadap perkembangan kesusastraan Indonesia?",
+        "id": 78,
+        "question_id": 3
+      },
+      {
+        "is_correct": false,
+        "alternative": "Mengapa A.Navis mendapatkan hadiah majalah Kisah pada tahun l955?",
+        "id": 79,
+        "question_id": 3
+      },
+      {
+        "is_correct": false,
+        "alternative": "Mengapa A.Navis tidak pernah menciptakan karya sastra berbentuk puisi?",
+        "id": 80,
+        "question_id": 3
+      }],
+    "created_at": {
+      "$date": 1394247339000
+    },
+    "question": "Ali Akbar Navis (A.Navis). Lahir di Padang Panjang, Sumatera Barat, tanggal 17 November 1924. Ia tamat perguruan INS di Kayu tanam tahun 1943. Pada masa Jepang Navis bekerja pada pabrik porselen di Padang Panjang, kemudian jadi guru, tahun1952 jadi Kepala Urusan Kesenian perwakilan Jawatan Kebudayaan Sumatera Tengah. Pada tahun 1950 ia mulai mengikuti perkembangan kesusastraan secara aktif, mengarang cerita pendek dan sandiwara radio.    Cerita-ceritanya dalam Mimbar Indonesia, siasat, Kisah, Sastra, dan lain-lain. la sebagai pemenang hadiah majalah Kisah pada tahun 1955. Karya-karyanya ialah: Robohnya Surau Kami (1956), Bianglala (1963), Hujan Panas (1963), Kemarau (1967), semuanya diterbitkan oleh N.V. NusantarKalimat tanya yang sesuai dengan isi bacaan biografi di atas adalah ........ ",
+    "id": 3,
+    "id_google": 1299,
+    "answer": null,
+    "type_question": 1
+  },
+  {
+    "comment": " ",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Paragraf 1 menyoroti hakikat bekerja dan paragraf 2 menyoroti hubungan bekerja dengan kehidupan.",
+      "id": 53,
+      "question_id": 4
+    },
+      {
+        "is_correct": true,
+        "alternative": "Paragraf 1 menyoroti hakikat hidup dan paragraf 2 menyoroti hubungan bekerja dengan kesehatan.",
+        "id": 54,
+        "question_id": 4
+      },
+      {
+        "is_correct": false,
+        "alternative": "Paragraf 1 menyoroti ciri manusia bekerja dan paragraf 2 menyoroti manfaat bekerja",
+        "id": 55,
+        "question_id": 4
+      },
+      {
+        "is_correct": false,
+        "alternative": "Paragraf 1 menyoroti masalah bekerja dalam kehidupan manusia dan paragraf 2 menyoroti kesehatan manusia ditentukan pekerjaannya",
+        "id": 56,
+        "question_id": 4
+      }],
+    "created_at": {
+      "$date": 1394248921000
+    },
+    "question": "Paragraf 1 Hakikat hidup adalah bekerjDapat dikatakan bahwa salah satu ciri manusia hidup adalah bekerjOleh karena itu, bekerja tidak bisa dilepaskan dari kehidupan manusia, baik secara fisik maupun psikis. Paragraf 2 Antara bekerja dan kesehatan manusia saling berhubungan bahkan saling berpengaruh. Hal ini terbukti misalnya dari kenyataan bahwa seseorang menjadi lebih sehat bila ia bekerja daripada tidak bekerjAtau kenyataan yang lain sebaliknya, yaitu seseorang yang bekerja malah menjadi sakit karena kondisi pekerjaannya tidak sesuai dengan karakteristik orang itu.Titik pandang kedua paragraf di atas adalah ........",
+    "id": 4,
+    "id_google": 1298,
+    "answer": null,
+    "type_question": 1
+  },
+  {
+    "comment": "  ",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "1 dan 2",
+      "id": 117,
+      "question_id": 5
+    },
+      {
+        "is_correct": true,
+        "alternative": "1 dan 3",
+        "id": 118,
+        "question_id": 5
+      },
+      {
+        "is_correct": false,
+        "alternative": "3 dan 4",
+        "id": 119,
+        "question_id": 5
+      },
+      {
+        "is_correct": false,
+        "alternative": "4 dan 5",
+        "id": 120,
+        "question_id": 5
+      }],
+    "created_at": {
+      "$date": 1395784194000
+    },
+    "question": "(1) Peserta Perubahaan Inti Rakyat (PIR) kelapa sawit, di desa Suka Makmur bukan hanya memerlukan rumah yang layak huni. \n(2) Mereka tahu betul arti rumah yang sehat dan indah. \n(3) Untuk bisa memilih rumah, mereka sebaiknya melakukan arisan di antara kelompok tani. \n(4) Sekarang di desa yang ditempati tahun 1986 itu telah berdiri 2200 rumah permanen dengan ukuran rata-rata 12 x 14 meter. \n(5) Dua puluh anggota kelompok tani Bunga Kantil memiliki rumah baru dan permanen. \nKalimat yang berisi fakta terdapat pada nomor ........",
+    "id": 5,
+    "id_google": 0,
+    "answer": null,
+    "type_question": 1
+  },
+  {
+    "comment": "   ",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Kepentingan ekonomi AS dirugikan cukup besar gara-gara skandal akuntansi yang dilakukan presiden.",
+      "id": 129,
+      "question_id": 6
+    },
+      {
+        "is_correct": true,
+        "alternative": "Dengan keterbukaan, kepentingan investor kecil dan pemegang pensiun akan dilindungi.",
+        "id": 130,
+        "question_id": 6
+      },
+      {
+        "is_correct": false,
+        "alternative": "Perusahaan akuntansi akan ditarik dari sistem yang kurang terbuka (out of the shadows).",
+        "id": 131,
+        "question_id": 6
+      },
+      {
+        "is_correct": false,
+        "alternative": "Kelak, tindak korupsi akan disiarkan ke publik dan dihukum sebagai langkah awal dari presiden.",
+        "id": 132,
+        "question_id": 6
+      }],
+    "created_at": {
+      "$date": 1395784556000
+    },
+    "question": "Sudah semestinyalah pemimpin Amerika tersebut mengambil langkah tegas seperti itu. Kalau tidak, bukan saja kepentingan rakyat Amerika yang akan dirugikan tetapi lebih besar lagi kepentingan ekonomi Amerika dalam kaitannya dengan kepercayaan asing yang akan dirugikan. Dengan langkah baru seperti yang diumumkan oleh Presiden Bush, kelak 213 tindak korupsi akan disiarkan ke publik dan dihukum. Akuntansi perusahaan juga akan ditarik keluar sistem yang kurang terbuka (out of the shadows). Dengan langkah itu pula, kepentingan investor kecil dan pemegang pensiun akan dilindungi. Pandangan redaksi pada tajuk rencana terdapat dalam kalimat ........ ",
+    "id": 6,
+    "id_google": 1308,
+    "answer": null,
+    "type_question": 1
+  },
+  {
+    "comment": "  ",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Bioregulator adalah hormon temuan Doktor Mumu.",
+      "id": 121,
+      "question_id": 7
+    },
+      {
+        "is_correct": false,
+        "alternative": "Bioregulator merupakan hormon yang dapat meningkatkan produksi padi. sampai dua kali lipat.",
+        "id": 122,
+        "question_id": 7
+      },
+      {
+        "is_correct": false,
+        "alternative": "Bioregulator dapat menjadikan sawah makin rimbun.",
+        "id": 123,
+        "question_id": 7
+      },
+      {
+        "is_correct": true,
+        "alternative": "Doktor Mumu Sutisno adalah penemu hormon bioregulator yang dapat meningkatkan produksi padi.",
+        "id": 124,
+        "question_id": 7
+      }],
+    "created_at": {
+      "$date": 1395784685000
+    },
+    "question": "Doktor Mumu Sutisno dari Bandung telah menemukan hormon yang bisa mengembangkan produksi padi sampai 200%%. Mumu Sutisno menamakan hormon temuannya ini Bioregulator (Bioreg). Dengan menyemprotkan hormon itu pada tanaman padi muda, menurut Mumu, rumpun-rumpun padi akan cepat beranak pinak. Rumpun padi normal pada umumnya berisi sekitar 35 anakan. Bioreg, kata Mumu pula, membuat jumlah anakan padi itu meningkat menjadi 60-70 batang per rumpun. Sawah makin rimbun, produksi berlipat. \"Penambahan gabah panen mencapai 55-220%%,\" ujar Mumu. Konsep yang tepat sesuai dengan wacana di atas adalah ........ ",
+    "id": 7,
+    "id_google": 1313,
+    "answer": null,
+    "type_question": 1
+  },
+  {
+    "comment": "   ",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "terdakwa menyetujui vonis yang dijatuhkan hakim",
+      "id": 125,
+      "question_id": 8
+    },
+      {
+        "is_correct": false,
+        "alternative": "keberatan jaksa atas pembelaan pengacara",
+        "id": 126,
+        "question_id": 8
+      },
+      {
+        "is_correct": true,
+        "alternative": "pembatalan atau pernyataan tidak sah",
+        "id": 127,
+        "question_id": 8
+      },
+      {
+        "is_correct": false,
+        "alternative": "permohonan terdakwa agar hakim berlaku adil",
+        "id": 128,
+        "question_id": 8
+      }],
+    "created_at": {
+      "$date": 1395784849000
+    },
+    "question": "Pihak pengacara terdakwa akhirnya mengajukan kasasi kepada Mahkamah Agung. Istilah kasasi berarti.......",
+    "id": 8,
+    "id_google": 0,
+    "answer": null,
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Dia mengambilkan ayah kaca mata",
+      "id": 147,
+      "question_id": 21
+    },
+      {
+        "is_correct": false,
+        "alternative": "Tono memasukkan sepeda motornya ke garasi. ",
+        "id": 148,
+        "question_id": 21
+      },
+      {
+        "is_correct": false,
+        "alternative": "Saya menyerahkan surat-surat kepada kepala sekolah. ",
+        "id": 149,
+        "question_id": 21
+      },
+      {
+        "is_correct": false,
+        "alternative": "Dia menjahitkan baju kepada Bu Rini.",
+        "id": 150,
+        "question_id": 21
+      }],
+    "created_at": {
+      "$date": 1398716958000
+    },
+    "question": "Makna imbuhan men-kan pada kalimat \"Ayah membelikan saya sepatu baru.\" sama dengan makna imbuhan meN-kan yang terdapat pada kalimat ........",
+    "id": 21,
+    "id_google": 1351,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": " ",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "hasil perbuatan",
+      "id": 263,
+      "question_id": 23
+    },
+      {
+        "is_correct": false,
+        "alternative": "tempat/lokasi",
+        "id": 264,
+        "question_id": 23
+      },
+      {
+        "is_correct": false,
+        "alternative": "hal perbuatan",
+        "id": 265,
+        "question_id": 23
+      },
+      {
+        "is_correct": false,
+        "alternative": "cara melakukan",
+        "id": 266,
+        "question_id": 23
+      },
+      {
+        "is_correct": false,
+        "alternative": "alat perbuatan",
+        "id": 267,
+        "question_id": 23
+      }],
+    "created_at": {
+      "$date": 1398717394000
+    },
+    "question": "Berdasarkan perkiraan kami, pengunjung konser itu pasti melimpah. Imbuhan per-an dalam kata perkiraan mempunyai makna ........ ",
+    "id": 23,
+    "id_google": 1350,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Pengadilan adalah tempat untuk memperoleh rasa keadilan",
+      "id": 163,
+      "question_id": 24
+    },
+      {
+        "is_correct": false,
+        "alternative": "Pekerjaan tangan itu membutuhkan keterampilan dan kesabaran.",
+        "id": 164,
+        "question_id": 24
+      },
+      {
+        "is_correct": false,
+        "alternative": "Pendakian itu sangat licin dan terjal.",
+        "id": 165,
+        "question_id": 24
+      },
+      {
+        "is_correct": false,
+        "alternative": "Pelabuhan kapal Gilimanuk-Ketapang sangat bersih dan indah.",
+        "id": 166,
+        "question_id": 24
+      },
+      {
+        "is_correct": true,
+        "alternative": "Penanaman nilai-nilai moral memerlukan waktu agak lama",
+        "id": 167,
+        "question_id": 24
+      }],
+    "created_at": {
+      "$date": 1398717469000
+    },
+    "question": "Kata berimbuhan pe-an yang bermakna proses dan hal (ambigu) terdapat pada kalimat ........ ",
+    "id": 24,
+    "id_google": 1339,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Ilmiawan itu telah menemukan vaksin pencegah folio.",
+      "id": 168,
+      "question_id": 25
+    },
+      {
+        "is_correct": false,
+        "alternative": "Dalam hal prinsipil, kita harus tegas dan jujur.",
+        "id": 169,
+        "question_id": 25
+      },
+      {
+        "is_correct": true,
+        "alternative": "Pada awal abad ke -14, islamisasi di kepulauan nusantara sudah dimulai.",
+        "id": 170,
+        "question_id": 25
+      },
+      {
+        "is_correct": false,
+        "alternative": "Sejarahwan harus jujur dalam melihat peristiwa bangsa",
+        "id": 171,
+        "question_id": 25
+      },
+      {
+        "is_correct": false,
+        "alternative": "Kita harus memiliki pemikiran konseptuil yang baru.",
+        "id": 172,
+        "question_id": 25
+      }],
+    "created_at": {
+      "$date": 1398717562000
+    },
+    "question": "Kalimat yang memakai imbuhan serapan secara tepat adalah .......",
+    "id": 25,
+    "id_google": 1349,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Pil anti malaria sangat dibutuhkan di daerah Irian Jaya",
+      "id": 173,
+      "question_id": 26
+    },
+      {
+        "is_correct": true,
+        "alternative": "Ayahnya bekerja nonstop untuk membiayai kehidupan keluarganya",
+        "id": 174,
+        "question_id": 26
+      },
+      {
+        "is_correct": false,
+        "alternative": "Jangan sembarangan minum anti biotik",
+        "id": 175,
+        "question_id": 26
+      },
+      {
+        "is_correct": false,
+        "alternative": "Pemerintah daerah baru saja rapat soal penanganan pasca gempa",
+        "id": 176,
+        "question_id": 26
+      },
+      {
+        "is_correct": false,
+        "alternative": "Pasukan anti Amerika bersiaga penuh di daerah perbatasan.",
+        "id": 179,
+        "question_id": 26
+      }],
+    "created_at": {
+      "$date": 1398717694000
+    },
+    "question": "Penulisan gabungan kata yang tepat terdapat dalam kalimat ........",
+    "id": 26,
+    "id_google": 1348,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "bercakap-cakap, tanya-menanya, pandang-memandang",
+      "id": 180,
+      "question_id": 27
+    },
+      {
+        "is_correct": false,
+        "alternative": "berhari-hari, mondar-mandir, bercakap-cakap",
+        "id": 181,
+        "question_id": 27
+      },
+      {
+        "is_correct": false,
+        "alternative": "berhari-hari, bercakap-cakap, tertawa-tawa",
+        "id": 182,
+        "question_id": 27
+      },
+      {
+        "is_correct": false,
+        "alternative": "tertawa-tawa, tanya-menanya, lihat-melihat",
+        "id": 183,
+        "question_id": 27
+      },
+      {
+        "is_correct": false,
+        "alternative": "tanya-menanya, lihat-melihat, berhari-hari",
+        "id": 184,
+        "question_id": 27
+      }],
+    "created_at": {
+      "$date": 1398717762000
+    },
+    "question": "Berhari-hari lamanya dia berjalan mondar-mandir keluar-masuk kantor. Dilihatnya banyak orang berdiri di depan loket. Ada yang sedang bercakap-cakap, tetapi tidak seorang pun yang tertawa-tawa, tanya-menanya, atau pandang-memandang. Kata ulang yang menyatakan berbalasan dalam paragraf di atas adalah ........",
+    "id": 27,
+    "id_google": 1160,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Semua siswa-siswa kelas tiga SMU harus mengikuti ujian nasional.",
+      "id": 185,
+      "question_id": 28
+    },
+      {
+        "is_correct": false,
+        "alternative": "Banyak anak-anak zaman sekarang kurang menghargai orang yang lebih tua",
+        "id": 186,
+        "question_id": 28
+      },
+      {
+        "is_correct": false,
+        "alternative": "Para buruh-buruh pabrik melakukan demonstrasi kenaikan gaji.",
+        "id": 187,
+        "question_id": 28
+      },
+      {
+        "is_correct": false,
+        "alternative": "Banyak soal-soal bahasa Indonesia yang tidak dapat dijawab siswa",
+        "id": 188,
+        "question_id": 28
+      },
+      {
+        "is_correct": true,
+        "alternative": "Guru-guru merupakan ujung tombak dalam mencerdaskan kehidupan bangsa",
+        "id": 189,
+        "question_id": 28
+      }],
+    "created_at": {
+      "$date": 1398717848000
+    },
+    "question": "Kalimat yang menggunakan kata ulang yang tepat adalah ........",
+    "id": 28,
+    "id_google": 1346,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": " ",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Rumah itu tidak begitu besar meskipun begitu nyaman digunakan untuk tempat beristirahat.",
+      "id": 190,
+      "question_id": 29
+    },
+      {
+        "is_correct": true,
+        "alternative": "Tanaman juga seperti manusia yang memerlukan makan dan minum untuk kelangsungan hidupnya",
+        "id": 191,
+        "question_id": 29
+      },
+      {
+        "is_correct": false,
+        "alternative": "Tanaman itu bukan hanya sebagai hiasan, melainkan juga sebagai obat berbagai penyakit.",
+        "id": 192,
+        "question_id": 29
+      },
+      {
+        "is_correct": false,
+        "alternative": "Tidak boleh menyesali hidupmu sedemikian rupa, apalagi sampai menyesali orang tuamu sendiri.",
+        "id": 193,
+        "question_id": 29
+      },
+      {
+        "is_correct": false,
+        "alternative": "Sekali, dua kali bahkan sudah sering saya menasihatinya, namun dia tidak menunjukkan perubahan.",
+        "id": 194,
+        "question_id": 29
+      }],
+    "created_at": {
+      "$date": 1398717970000
+    },
+    "question": "Kalimat yang menggunakan kata penghubung korelatif adalah ........",
+    "id": 29,
+    "id_google": 1347,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Di Indonesia banyak lahan pertanian yang subur.",
+      "id": 196,
+      "question_id": 30
+    },
+      {
+        "is_correct": false,
+        "alternative": "Karena hujan terus-menerus, daerah itu banjir lagi.",
+        "id": 197,
+        "question_id": 30
+      },
+      {
+        "is_correct": true,
+        "alternative": "Jika kamu belajar, kamu akan sukses.",
+        "id": 198,
+        "question_id": 30
+      },
+      {
+        "is_correct": false,
+        "alternative": "Kepercayaan dari seseorang jangan kamu sia-siakan.",
+        "id": 199,
+        "question_id": 30
+      },
+      {
+        "is_correct": false,
+        "alternative": "Kita harus berhati-hati agar kita selamat di sana",
+        "id": 200,
+        "question_id": 30
+      }],
+    "created_at": {
+      "$date": 1398718038000
+    },
+    "question": "Kata penghubung antar klausa terdapat dalam kalimat ........",
+    "id": 30,
+    "id_google": 1345,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Jika orang bekerja keras, orang tersebut akan mendapat hasil maksimal.",
+      "id": 201,
+      "question_id": 31
+    },
+      {
+        "is_correct": false,
+        "alternative": "Bekerja keras akan mendatangkan hasil maksimal.",
+        "id": 202,
+        "question_id": 31
+      },
+      {
+        "is_correct": false,
+        "alternative": "Petinju itu berlatih setiap hari sehingga ia menjadi juara",
+        "id": 203,
+        "question_id": 31
+      },
+      {
+        "is_correct": false,
+        "alternative": "Orang itu berusaha keras maka is akan berhasil.",
+        "id": 204,
+        "question_id": 31
+      },
+      {
+        "is_correct": false,
+        "alternative": "Polisi menegakkan hukum supaya keadilan tercapai.",
+        "id": 205,
+        "question_id": 31
+      }],
+    "created_at": {
+      "$date": 1398718091000
+    },
+    "question": "Kata penghubung syarat hasil terdapat pada kalimat .......",
+    "id": 31,
+    "id_google": 1344,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Belakang parang pun jika diasah akan tajam. ",
+      "id": 206,
+      "question_id": 32
+    },
+      {
+        "is_correct": false,
+        "alternative": "Bunga gugur putik pun gugur.",
+        "id": 207,
+        "question_id": 32
+      },
+      {
+        "is_correct": false,
+        "alternative": "Seperti api dalam sekam.",
+        "id": 208,
+        "question_id": 32
+      },
+      {
+        "is_correct": true,
+        "alternative": "Habis manis sepah dibuang.",
+        "id": 209,
+        "question_id": 32
+      },
+      {
+        "is_correct": false,
+        "alternative": "Pagar makan tanaman.",
+        "id": 210,
+        "question_id": 32
+      }],
+    "created_at": {
+      "$date": 1398718160000
+    },
+    "question": "Selagi jaya pejabat itu dikerumuni orang-orang yang mengaku teman atau saudara. Sekarang ia sudah kehilangan jabatannya, Hilanglah pula orang-orang yang mengaku teman dan saudaranya.\nPeribahasa yang sesuai dengan ilustrasi di atas adalah ........ ",
+    "id": 32,
+    "id_google": 1343,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Ayah memberikan acungan jempol atas keberhasilan saya diterima di perguruan tinggi negeri yang berkualitas.",
+      "id": 211,
+      "question_id": 33
+    },
+      {
+        "is_correct": false,
+        "alternative": "Akhirnya, pemuda itu angkat bicara di tengah-tengah para demonstran.",
+        "id": 212,
+        "question_id": 33
+      },
+      {
+        "is_correct": false,
+        "alternative": "Orang itu angkat muka sewaktu namanya dipanggil maju ke tengah sidang.",
+        "id": 213,
+        "question_id": 33
+      },
+      {
+        "is_correct": false,
+        "alternative": "Sudah pada tempatnya Anda unjuk gigi di hadapan pemuda yang kuceritakan itu.",
+        "id": 214,
+        "question_id": 33
+      }],
+    "created_at": {
+      "$date": 1398718241000
+    },
+    "question": "Saya angkat topi atas prestasi yang telah kauraih untuk memajukan sekolah kitMakna ungkapan dalam kalimat tersebut sama dengan makna ungkapan yang tersaji dalam kalimat ........",
+    "id": 33,
+    "id_google": 1341,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Gubuk sederhana inilah hasil karya kami selama bertahun-tahun.",
+      "id": 215,
+      "question_id": 37
+    },
+      {
+        "is_correct": false,
+        "alternative": "Teman akrab ada kalanya merupakan musuh sejati.",
+        "id": 216,
+        "question_id": 37
+      },
+      {
+        "is_correct": false,
+        "alternative": "Hujan memandikan tanaman di halaman rumah.",
+        "id": 217,
+        "question_id": 37
+      },
+      {
+        "is_correct": false,
+        "alternative": "Kecantikannyalah justru yang mencelakakannya",
+        "id": 218,
+        "question_id": 37
+      }],
+    "created_at": {
+      "$date": 1398718426000
+    },
+    "question": "Kalimat yang menggunakan majas litotes adalah ........",
+    "id": 37,
+    "id_google": 1335,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": " ",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Peringatan ke-57 HUT RI jatuh pada hari Sabtu. Karena kelelahan bekerja, setiba di rumah dia jatuh di halaman.",
+      "id": 219,
+      "question_id": 39
+    },
+      {
+        "is_correct": false,
+        "alternative": "\"Selamat pagi, Pak!\" sapa sekretaris itu kepada atasanny\"Berapa pak dia membeli rokok?\" tanya pedagang itu kepada orang suruhannya",
+        "id": 220,
+        "question_id": 39
+      },
+      {
+        "is_correct": false,
+        "alternative": "Pertandingan sepak bola antara Argentina dan Swedia berakhir seri (1-1). Cerita yang sedang dibaca Tomy adalah cerita Jaka Tingkir seri kedua",
+        "id": 221,
+        "question_id": 39
+      },
+      {
+        "is_correct": false,
+        "alternative": "Sepeninggal ayah, ibu sakit-sakitan dan badannya terlihat mengurus. Istri yang pandai mengurus rumah tangga akan membahagiakan suaminya",
+        "id": 222,
+        "question_id": 39
+      },
+      {
+        "is_correct": false,
+        "alternative": "Petugas yang telah ditunjuk itu mengukur jalan ke kiri dan ke kanan sepanjang enam meter. Ibu mengukur kelapa untuk membuat kolak makanan kesenangan ayah.",
+        "id": 223,
+        "question_id": 39
+      }],
+    "created_at": {
+      "$date": 1398718691000
+    },
+    "question": "Pasangan kalimat yang menggunakan kata berpolisemi dengan tepat terdapat pada ........",
+    "id": 39,
+    "id_google": 1335,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Pemimpin yang baik harus mempunyai mental yang baik pulPengendara yang mengalami kecelakaan itu mental dari sepeda motornya",
+      "id": 228,
+      "question_id": 41
+    },
+      {
+        "is_correct": false,
+        "alternative": "Buku jari tangan adikku terluka saat mengupas manggBuku bacaan untuk anak-anak sebaiknya mempunyai unsur didik.",
+        "id": 229,
+        "question_id": 41
+      },
+      {
+        "is_correct": false,
+        "alternative": "Kopi surat kenaikan pangkat itu dibuat rangkap duKopi kiriman ibu dari Medan sudah dibagi-bagikan kepada tetangga",
+        "id": 230,
+        "question_id": 41
+      },
+      {
+        "is_correct": false,
+        "alternative": "Kaca jendela rumah itu sudah buram karena jarang dibersihkan. Andi mengerjakannya di kertas buram.",
+        "id": 231,
+        "question_id": 41
+      }],
+    "created_at": {
+      "$date": 1398718833000
+    },
+    "question": "Pasangan kalimat yang menggunakan kata berhomograf adalah ........",
+    "id": 41,
+    "id_google": 1334,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Kapal induk AS berlayar ke Timur Tengah dua bulan yang lalu.",
+      "id": 232,
+      "question_id": 42
+    },
+      {
+        "is_correct": false,
+        "alternative": "Doni tinggal di puri Karang Asem sejak ibunya meninggal.",
+        "id": 233,
+        "question_id": 42
+      },
+      {
+        "is_correct": false,
+        "alternative": "Saudara harus memperhatikan jadual kegiatan yang disepakati.",
+        "id": 234,
+        "question_id": 42
+      },
+      {
+        "is_correct": false,
+        "alternative": "Ibu guru itu sangat bijaksana dalam menghadapi muridnya",
+        "id": 235,
+        "question_id": 42
+      },
+      {
+        "is_correct": true,
+        "alternative": "Ia bercita-cita menjadi sarjana pendidikan yang kompeten.",
+        "id": 236,
+        "question_id": 42
+      }],
+    "created_at": {
+      "$date": 1398718994000
+    },
+    "question": "Kata yang mengalami penyempitan makna terdapat dalam kalimat ........",
+    "id": 42,
+    "id_google": 1331,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Mobil baru paman dicongkel pencuri tadi malam di tempat parkir. ",
+      "id": 240,
+      "question_id": 43
+    },
+      {
+        "is_correct": false,
+        "alternative": "Sakit yang ringan pada tenggorokan sering terjadi karena polusi udara",
+        "id": 241,
+        "question_id": 43
+      },
+      {
+        "is_correct": false,
+        "alternative": "Sakit pada mulut dan tenggorokan yang ringan sering terjadi pada anak anak.",
+        "id": 242,
+        "question_id": 43
+      },
+      {
+        "is_correct": true,
+        "alternative": "Pada tahun ajaran ini SPP siswa baru dinaikkan.",
+        "id": 243,
+        "question_id": 43
+      }],
+    "created_at": {
+      "$date": 1398719105000
+    },
+    "question": "Frase bermakna ganda terdapat dalam kalimat .......",
+    "id": 43,
+    "id_google": 1332,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": " ",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Ruang pelatihan itu dilengkapi dengan pendingin ruangan.",
+      "id": 258,
+      "question_id": 44
+    },
+      {
+        "is_correct": false,
+        "alternative": "Ekonomi masyarakat ditopang oleh jasa simpan pinjam.",
+        "id": 259,
+        "question_id": 44
+      },
+      {
+        "is_correct": false,
+        "alternative": "Perusahaan minyak itu mengalami kerugian.",
+        "id": 260,
+        "question_id": 44
+      },
+      {
+        "is_correct": false,
+        "alternative": "Setelah simpang empat mereka akan sampai di TKP.",
+        "id": 261,
+        "question_id": 44
+      },
+      {
+        "is_correct": false,
+        "alternative": "Asap mobil dan motor menyebabkan polusi udara.",
+        "id": 262,
+        "question_id": 44
+      }],
+    "created_at": {
+      "$date": 1398719206000
+    },
+    "question": "Kalimat berikut yang menggunakan frase atributif berimbuhan adalah ........",
+    "id": 44,
+    "id_google": 1323,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Orang beriman wajib menghormati orang tua yang membesarkan.",
+      "id": 249,
+      "question_id": 45
+    },
+      {
+        "is_correct": true,
+        "alternative": "Sebagai orang beriman, kita wajib menghormati orang tua yang telah membesarkan kita.",
+        "id": 250,
+        "question_id": 45
+      },
+      {
+        "is_correct": false,
+        "alternative": "Orang beriman pasti menghormati orang tua yang membesarkannya.",
+        "id": 251,
+        "question_id": 45
+      },
+      {
+        "is_correct": false,
+        "alternative": "Sebagai orang beriman pasti mengikuti petunjuk orang tua yang membesarkan mereka.",
+        "id": 252,
+        "question_id": 45
+      },
+      {
+        "is_correct": false,
+        "alternative": "Sebagai orang yang beriman, kita berkewajiban menghormati orang tua yang mana membesarkan kita.",
+        "id": 253,
+        "question_id": 45
+      }],
+    "created_at": {
+      "$date": 1398719366000
+    },
+    "question": "Kita sebagai orang beriman, kita wajib menghormati orang tua di mana telah membesarkan kita. Kalimat tersebut supaya logis, diubah menjadi ........",
+    "id": 45,
+    "id_google": 1319,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "  ",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Pembalap itu merajai lomba pada etape pertama.",
+      "id": 285,
+      "question_id": 46
+    },
+      {
+        "is_correct": false,
+        "alternative": "Pembicara itu berceramah tentang refleksi diri.",
+        "id": 286,
+        "question_id": 46
+      },
+      {
+        "is_correct": false,
+        "alternative": "Guru yang sedang berbicara itu seorang penulis cerita pendek. ",
+        "id": 287,
+        "question_id": 46
+      },
+      {
+        "is_correct": true,
+        "alternative": "Telah kukirimkan kembali buku itu kemarin kepada pemiliknya",
+        "id": 288,
+        "question_id": 46
+      },
+      {
+        "is_correct": false,
+        "alternative": "Diskusi yang sedang berlangsung membicarakan peningkatan etos kerja",
+        "id": 289,
+        "question_id": 46
+      }],
+    "created_at": {
+      "$date": 1400256707000
+    },
+    "question": "Kalimat berikut yang termasuk kalimat pasif adalah ........",
+    "id": 46,
+    "id_google": 1365,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Ibu mengatakan bahwa ia gembira sekali karena kamu lulus.",
+      "id": 290,
+      "question_id": 47
+    },
+      {
+        "is_correct": false,
+        "alternative": "Ibu mengatakan bahwa kamu gembira sekali karena saya lulus.",
+        "id": 291,
+        "question_id": 47
+      },
+      {
+        "is_correct": false,
+        "alternative": "Saya gembira sekali karena kamu lulus, kata Ibu.",
+        "id": 292,
+        "question_id": 47
+      },
+      {
+        "is_correct": false,
+        "alternative": "Ibu mengatakan bahwa saya gembira sekali karena is lulus.",
+        "id": 293,
+        "question_id": 47
+      },
+      {
+        "is_correct": true,
+        "alternative": "Ibu mengatakan bahwa ia gembira sekali karena saya lulus.",
+        "id": 294,
+        "question_id": 47
+      }],
+    "created_at": {
+      "$date": 1400257938000
+    },
+    "question": "\"Saya gembira sekali,\" kata Ibu, \"karena kamu lulus.\" \nKalimat tidak langsung yang tepat dari kalimat di atas adalah ........ ",
+    "id": 47,
+    "id_google": 1368,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "(1) dan (2)",
+      "id": 296,
+      "question_id": 48
+    },
+      {
+        "is_correct": false,
+        "alternative": "(2) dan (3)",
+        "id": 297,
+        "question_id": 48
+      },
+      {
+        "is_correct": true,
+        "alternative": "(2) dan (4)",
+        "id": 298,
+        "question_id": 48
+      },
+      {
+        "is_correct": false,
+        "alternative": "(3) dan (4)",
+        "id": 299,
+        "question_id": 48
+      },
+      {
+        "is_correct": false,
+        "alternative": "(4) dan (5)",
+        "id": 300,
+        "question_id": 48
+      }],
+    "created_at": {
+      "$date": 1400258167000
+    },
+    "question": "(1) Mardilah : Engkau anakku Suhita ........ \n(2) Suhita : Ya, Bu! \n(3) Mardilah : Kau tidak boleh marah pada Ibu, ya Nak! \n(4) Suhita : Tidak, Bu! \n(5) Mardilah Baiklah, sampaikan surat itu secepatnya. \nKalimat minor dalam dialog di atas terdapat pada kalimat nomor ........",
+    "id": 48,
+    "id_google": 1363,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Bacaan populer masih dianaktirikan.",
+      "id": 302,
+      "question_id": 50
+    },
+      {
+        "is_correct": false,
+        "alternative": "Tahun ini merupakan tahun keberuntungan Indonesia",
+        "id": 303,
+        "question_id": 50
+      },
+      {
+        "is_correct": true,
+        "alternative": "Pemerintah mengecam pengunjuk rasa yang berdemonstrasi.",
+        "id": 304,
+        "question_id": 50
+      },
+      {
+        "is_correct": false,
+        "alternative": "Negara kesatuan Republik Indonesia berdasarkan Pancasila",
+        "id": 305,
+        "question_id": 50
+      }],
+    "created_at": {
+      "$date": 1400278877000
+    },
+    "question": "Kalimat berobjek terdapat pada ........",
+    "id": 50,
+    "id_google": 1364,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Kami menyudahi pembicaraan setelah lama berdebat. ",
+      "id": 316,
+      "question_id": 51
+    },
+      {
+        "is_correct": false,
+        "alternative": "Pohon duren di depan rumahku banyak buahnya",
+        "id": 317,
+        "question_id": 51
+      },
+      {
+        "is_correct": true,
+        "alternative": "Sepasang kekasih berpegangan tangan dengan mesra",
+        "id": 318,
+        "question_id": 51
+      },
+      {
+        "is_correct": false,
+        "alternative": "Silakan saudara duduk di kursi nomor dua dari depan.",
+        "id": 319,
+        "question_id": 51
+      },
+      {
+        "is_correct": false,
+        "alternative": "Stasiun televisi swasta menayangkan iklan promosi dan layanan masyarakat.",
+        "id": 320,
+        "question_id": 51
+      }],
+    "created_at": {
+      "$date": 1400278969000
+    },
+    "question": "Kalimat berpelengkap terdapat dalam ........",
+    "id": 51,
+    "id_google": 1361,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": " ",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Kami akan datang jika ada suatu undangan dan tugas dari kepala sekolah.",
+      "id": 321,
+      "question_id": 52
+    },
+      {
+        "is_correct": false,
+        "alternative": "Mereka tidak mengakui perbuatannya karena tidak ingin namanya tercemar.",
+        "id": 322,
+        "question_id": 52
+      },
+      {
+        "is_correct": true,
+        "alternative": "Gadis itu sangat cerdas, parasnya cantik, dan disenangi teman-temannya",
+        "id": 323,
+        "question_id": 52
+      },
+      {
+        "is_correct": false,
+        "alternative": "Gemuruh mempercepat hari menjadi gelap sehingga membuat pekerjaannya tidak selesai.",
+        "id": 324,
+        "question_id": 52
+      },
+      {
+        "is_correct": false,
+        "alternative": "Orang yang kemarin datang ditangkap polisi karena kasus penipuan.",
+        "id": 325,
+        "question_id": 52
+      }],
+    "created_at": {
+      "$date": 1400279584000
+    },
+    "question": "Kalimat berikut yang termasuk kalimat majemuk setara (koordinatif) adalah .......",
+    "id": 52,
+    "id_google": 1362,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": " ",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Gubernur DKI mengimbau warga",
+      "id": 371,
+      "question_id": 53
+    },
+      {
+        "is_correct": false,
+        "alternative": "Gubernur DKI mengimbau aparat pemda",
+        "id": 372,
+        "question_id": 53
+      },
+      {
+        "is_correct": false,
+        "alternative": "warga meningkatkan kewaspadaan",
+        "id": 373,
+        "question_id": 53
+      },
+      {
+        "is_correct": false,
+        "alternative": "aparat pemda harus waspada",
+        "id": 374,
+        "question_id": 53
+      },
+      {
+        "is_correct": true,
+        "alternative": "agar meningkatkan kewaspadaan ",
+        "id": 375,
+        "question_id": 53
+      }],
+    "created_at": {
+      "$date": 1400279720000
+    },
+    "question": "Ibunya menjahit ketika anaknya belajar di kamar. Kalimat yang berpola sama dengan kalimat di atas adalah ........",
+    "id": 53,
+    "id_google": 1360,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Bajunya sangat bagus dan terbuat dari bahan-bahan sutra halus pula",
+      "id": 332,
+      "question_id": 55
+    },
+      {
+        "is_correct": false,
+        "alternative": "Penyakit orang itu sangat mudah menular atau tidak membahayakan orang di sekitarnya",
+        "id": 333,
+        "question_id": 55
+      },
+      {
+        "is_correct": true,
+        "alternative": "Dia tidak ada di rumah ketika kami datang dan akan menyampaikan berita duka itu.",
+        "id": 334,
+        "question_id": 55
+      },
+      {
+        "is_correct": false,
+        "alternative": "Mereka belajar matematika atau belajar kimia dan fisika di bimbingan belajar itu.",
+        "id": 335,
+        "question_id": 55
+      },
+      {
+        "is_correct": false,
+        "alternative": "Orang itu memberikan sumbangan untuk sekolah, tetapi dia menentukan kegunaan sumbangan itu.",
+        "id": 336,
+        "question_id": 55
+      }],
+    "created_at": {
+      "$date": 1400280228000
+    },
+    "question": "Kalimat majemuk yang memiliki klausa setara dan bertingkat adalah ........",
+    "id": 55,
+    "id_google": 1358,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Berdasarkan iklan Kompas, Sabtu, 13 Juli 2002, yang memuat pengumuman tentang dibutuhkannya guru SLTP bidang studi Biologi, saya yang bertanda tangan di bawah ini:....",
+      "id": 337,
+      "question_id": 56
+    },
+      {
+        "is_correct": false,
+        "alternative": "Berdasarkan iklan Kompas, Sabtu, 13 Juli 2002, yang memuat pengumuman tentang dibutuhkannya guru SLTP bidang studi Biologi, maka saya mengajukan lamaran pekerjaan dan semoga diterima.",
+        "id": 338,
+        "question_id": 56
+      },
+      {
+        "is_correct": false,
+        "alternative": "Berdasarkan iklan Kompas, Sabtu, 13 Juli 2002, yang memuat pengumuman tentang dibutuhkannya guru SLTP bidang studi Biologi, maka saya mengajukan lamaran.",
+        "id": 339,
+        "question_id": 56
+      },
+      {
+        "is_correct": false,
+        "alternative": "Berdasarkan iklan Kompas, Sabtu, 13 Juli 2002, yang memuat pengumuman tentang dibutuhkannya guru SLTP bidang studi Biologi, dengan ini kami menyerahkan lamaran kerja.",
+        "id": 340,
+        "question_id": 56
+      },
+      {
+        "is_correct": false,
+        "alternative": "Bedasarkan iklan Kompas, Sabtu 13 Juli 2002, yang memuat pengumuman tentang dibutuhkannya guru SLTP, kami mengajukan permohonan untuk diterima menjadi staf Bapak.",
+        "id": 341,
+        "question_id": 56
+      }],
+    "created_at": {
+      "$date": 1400280344000
+    },
+    "question": "Bacalah iklam lowongan kerja dengan cepat! Berdasarkan iklan lowongan kerja tersebut, kalimat pembuka surat lamaran pekerjaan yang tepat adalah ........ ",
+    "id": 56,
+    "id_google": 1357,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "    ",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "kata bersama ditambahkan dengan surat",
+      "id": 384,
+      "question_id": 57
+    },
+      {
+        "is_correct": false,
+        "alternative": "kata bersama diganti dengan melalui",
+        "id": 385,
+        "question_id": 57
+      },
+      {
+        "is_correct": false,
+        "alternative": "kata bersama diganti dengan yang bertanda tangan ",
+        "id": 386,
+        "question_id": 57
+      },
+      {
+        "is_correct": false,
+        "alternative": "kata bersama diubah menjadi dengan",
+        "id": 387,
+        "question_id": 57
+      }],
+    "created_at": {
+      "$date": 1400280765000
+    },
+    "question": "Dengan hormat, Bersama ini saya, Masih Ankarya, 23 tahun, lulusan D2 Akuntansi tahun 1994, mengajukan lamaran sebagai ........  \nPembuka surat lamaran pekerjaan di atas kurang tepat, perbaikannya adalah ........",
+    "id": 57,
+    "id_google": 1354,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Kepada Personalia PT Telkom\nJl. Jenderal Gatot Subroto no. 5. Jakarta Pusat",
+      "id": 351,
+      "question_id": 58
+    },
+      {
+        "is_correct": true,
+        "alternative": "Yth. Personalia PT Indosat\nJalan Jenderal Sudirman Kaveling 3\nJakarta Selatan",
+        "id": 352,
+        "question_id": 58
+      },
+      {
+        "is_correct": false,
+        "alternative": "Yth. Bapak Personalia CV Nurwana\nJln. M.T. Haryono 15\nJakarta Selatan.",
+        "id": 353,
+        "question_id": 58
+      },
+      {
+        "is_correct": false,
+        "alternative": "Kepada Yth. Biro Personalia PT Indo Sukses\nJalan Dewi Sartika 22\nJakarta Timur.",
+        "id": 354,
+        "question_id": 58
+      },
+      {
+        "is_correct": false,
+        "alternative": "Kepada Yth. HRD P.T. Bulan Semesta\nJl. Bekasi Raya 5\nJakarta Timur.",
+        "id": 355,
+        "question_id": 58
+      }],
+    "created_at": {
+      "$date": 1400280949000
+    },
+    "question": "Penulisan alamat surat yang benar adalah ........",
+    "id": 58,
+    "id_google": 1355,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Sudi kiranya Bapak mempersiapkan acara penyambutan walikota tanggal 2 Mei 2003.",
+      "id": 358,
+      "question_id": 59
+    },
+      {
+        "is_correct": true,
+        "alternative": "Segera persiapkan acara penyambutan walikota di sekolah ini, tanggal 2 Mei 2003.",
+        "id": 359,
+        "question_id": 59
+      },
+      {
+        "is_correct": true,
+        "alternative": "Atur acara penyambutan walikota, jangan sampai memalukan sekolah kita tanggal 2Mei 2003.",
+        "id": 360,
+        "question_id": 59
+      },
+      {
+        "is_correct": true,
+        "alternative": "Bapak persiapkanlah acara penyambutan walikota yang tidak lama lagi, yaitu tanggal2 Mei 2003.",
+        "id": 361,
+        "question_id": 59
+      },
+      {
+        "is_correct": false,
+        "alternative": "Saya mohon sungguh-sungguh agar Bapak persiapkan acara penyambutan walikotatanggal 2 Mei 2003.",
+        "id": 362,
+        "question_id": 59
+      }],
+    "created_at": {
+      "$date": 1400281172000
+    },
+    "question": "Seorang Kepala Sekolah SMU 200 menugasi pembina OSIS SMU 200 untuk mempersiapkan acara penyambutan walikota ke sekolah tersebut pada tanggal 2 Mei 2003. Kalimat isi memo yang sesuai dengan ilustrasi tersebut adalah ........",
+    "id": 59,
+    "id_google": 1353,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Hidupku adalah kesehatan, kurangi merokok.",
+      "id": 364,
+      "question_id": 60
+    },
+      {
+        "is_correct": false,
+        "alternative": "Ayo cinta lingkungan. Kita galang kekuatan.",
+        "id": 365,
+        "question_id": 60
+      },
+      {
+        "is_correct": false,
+        "alternative": "Kembalikan lingkungan, cintai kebersihan, kembangkan kekuatan.",
+        "id": 366,
+        "question_id": 60
+      },
+      {
+        "is_correct": true,
+        "alternative": "Biasakan hidup bersih! Lingkungan bersih dan sehat, kita kuat.",
+        "id": 367,
+        "question_id": 60
+      },
+      {
+        "is_correct": false,
+        "alternative": "Upayakan mencintai kesehatan dan menjaga kebersihan.",
+        "id": 368,
+        "question_id": 60
+      }],
+    "created_at": {
+      "$date": 1400281688000
+    },
+    "question": "Mari kita jaga kebersihan dan kita peduli akan lingkungan. Menjaga kebersihan berarti memperhatikan kesehatan. Jika kita sehat, kita akan menjadi kuat. Kalimat poster yang tepat berdasarkan ilustrasi di atas adalah ........",
+    "id": 60,
+    "id_google": 1352,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "analisis",
+      "id": 388,
+      "question_id": 61
+    },
+      {
+        "is_correct": false,
+        "alternative": "identifikasi",
+        "id": 389,
+        "question_id": 61
+      },
+      {
+        "is_correct": false,
+        "alternative": "ilustrasi",
+        "id": 390,
+        "question_id": 61
+      },
+      {
+        "is_correct": false,
+        "alternative": "definisi",
+        "id": 391,
+        "question_id": 61
+      },
+      {
+        "is_correct": true,
+        "alternative": "klasifikasi ",
+        "id": 392,
+        "question_id": 61
+      }],
+    "created_at": {
+      "$date": 1400519981000
+    },
+    "question": "Ada dua macam sarana pendidikan, yaitu pendidikan formal dan pendidikan nonformal. Pendidikan formal memiliki standar kurikulum yang sudah ditentukan oleh pemerintah, seperti SD, SLTP, SMU/SMK dan lain sebagainyPendidikan nonformal yang lebih dikenal dengan pendidikan luar sekolah seperti kursus-kursus, biasanya menyusun kurikulum sendiri yang disesuaikan dengan kebutuhan dan kebijakan lembaga yang bersangkutan. Paragraf tersebut menggunakan pola pengembangan eksposisi berjenis ........ ",
+    "id": 61,
+    "id_google": 1320,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Anto ingin kuliah karena ia siswa SMU.",
+      "id": 394,
+      "question_id": 62
+    },
+      {
+        "is_correct": false,
+        "alternative": "Siswa yang ingin kuliah harus mengikuti SPMB.",
+        "id": 395,
+        "question_id": 62
+      },
+      {
+        "is_correct": true,
+        "alternative": "Anto harus lulus SPMB.",
+        "id": 396,
+        "question_id": 62
+      },
+      {
+        "is_correct": false,
+        "alternative": "Anto tamat SMU.",
+        "id": 397,
+        "question_id": 62
+      }],
+    "created_at": {
+      "$date": 1400520241000
+    },
+    "question": "PU : Semua siswa SMU yang melanjutkan ke perguruan tinggi negeri harus lulus SPMPK : Anto siswa yang melanjutkan ke perguruan tinggi negeri. K : ........ |\nSimpulan yang tepat dalam silogisme tersebut adalah ........",
+    "id": 62,
+    "id_google": 1322,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "sebab-sebab",
+      "id": 398,
+      "question_id": 63
+    },
+      {
+        "is_correct": false,
+        "alternative": "akibat-sebab",
+        "id": 399,
+        "question_id": 63
+      },
+      {
+        "is_correct": false,
+        "alternative": "generalisasi",
+        "id": 400,
+        "question_id": 63
+      },
+      {
+        "is_correct": true,
+        "alternative": "analogi",
+        "id": 401,
+        "question_id": 63
+      },
+      {
+        "is_correct": false,
+        "alternative": "proses",
+        "id": 402,
+        "question_id": 63
+      }],
+    "created_at": {
+      "$date": 1400520912000
+    },
+    "question": "Percabangan suatu bahasa proto menjadi dua bahasa baru atau lebih, serta tiap-tiap bahasa baru itu dapat bercabang pula dan seterusnya, dapat disamakan denganpercabangan sebatang pohon. Pada suatu waktu batang pohon tadi mengeluarkan cabang-cabang baru, tiap cabang kemudian bertunas dan bertumbuh menjadi cabang-cabang baru. Cabang-cabang yang baru ini kemudian mengeluarkan ranting-ranting yang baru. Demikian seterusnya Begitu pula percabangan pada bahasa. Paragraf di atas menggunakan pola pengembangan ........",
+    "id": 63,
+    "id_google": 1316,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "saran",
+      "id": 406,
+      "question_id": 64
+    },
+      {
+        "is_correct": false,
+        "alternative": "simpulan",
+        "id": 407,
+        "question_id": 64
+      },
+      {
+        "is_correct": false,
+        "alternative": "isi",
+        "id": 408,
+        "question_id": 64
+      },
+      {
+        "is_correct": false,
+        "alternative": "pendahuluan",
+        "id": 409,
+        "question_id": 64
+      },
+      {
+        "is_correct": true,
+        "alternative": "kata pengantar",
+        "id": 410,
+        "question_id": 64
+      }],
+    "created_at": {
+      "$date": 1400532640000
+    },
+    "question": "Penulis menyadari bahwa karya tulis ini masih jauh dari sempurna. Oleh karena itu, penulis mengharapkan kritik dan saran yang membangun dari semua pihak. Bagian karya tulis di atas terdapat pada bagian ........",
+    "id": 64,
+    "id_google": 1303,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "paparan",
+      "id": 412,
+      "question_id": 67
+    },
+      {
+        "is_correct": false,
+        "alternative": "lukisan",
+        "id": 413,
+        "question_id": 67
+      },
+      {
+        "is_correct": false,
+        "alternative": "alasan",
+        "id": 414,
+        "question_id": 67
+      },
+      {
+        "is_correct": true,
+        "alternative": "imbauan",
+        "id": 415,
+        "question_id": 67
+      },
+      {
+        "is_correct": false,
+        "alternative": "ulasan",
+        "id": 416,
+        "question_id": 67
+      }],
+    "created_at": {
+      "$date": 1400533479000
+    },
+    "question": "Saudara, saudara... pada peringatan Hari Anak Nasional ini, kami mengharap agar semua jajaran yang ada di kota ini ikut peduli terhadap hak anak. Anak tanpa bimbingan orang tua akan tumbuh menjadi liar dan pribadinya tak akan terbentuk dengan baik. Olehkarena itu, kami mengajak warga masyarakat, mulai dari tingkat keluarga, masyarakat, sekolah, dan lembaga lembaga lainnya untuk ambil bagian dalam memberdayakan potensi anak menjadi generasi yang siap bersaing di tingkat global.\nIsi penggalan pidato di atas berupa ........",
+    "id": 67,
+    "id_google": 1301,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": " ",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "SUMBER ENERGI LISTRIK KINI DAN MASA YANG AKAN DATANG",
+      "id": 424,
+      "question_id": 69
+    },
+      {
+        "is_correct": false,
+        "alternative": "SUMBER ENERGI LISTRIK KINI dan MASA yang AKAN DATANG",
+        "id": 425,
+        "question_id": 69
+      },
+      {
+        "is_correct": false,
+        "alternative": "SUMBER ENERGI LISTRIK KINI dan MASA YANG AKAN DATANG",
+        "id": 426,
+        "question_id": 69
+      },
+      {
+        "is_correct": false,
+        "alternative": "Sumber Energi Listrik Kini dan Masa yang Akan Datang",
+        "id": 427,
+        "question_id": 69
+      },
+      {
+        "is_correct": false,
+        "alternative": "Sumber Energi Listrik Kini Dan Masa Yang Akan Datang",
+        "id": 428,
+        "question_id": 69
+      }],
+    "created_at": {
+      "$date": 1400536306000
+    },
+    "question": "Penulisan judul karya tulis yang tepat terdapat pada ........",
+    "id": 69,
+    "id_google": 1297,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": " ",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Mintalah kwitansi pembelian barang sebagai bukti pembelian.",
+      "id": 1010,
+      "question_id": 70
+    },
+      {
+        "is_correct": true,
+        "alternative": "Kakak baru saja memperoleh ijazah sarjana dari universitas yang terkenal di kotaku. ",
+        "id": 1011,
+        "question_id": 70
+      },
+      {
+        "is_correct": false,
+        "alternative": "Projek pembangunan jalan itu akan dilaksanakan setelah anggaran RAPBN disusun.",
+        "id": 1012,
+        "question_id": 70
+      },
+      {
+        "is_correct": false,
+        "alternative": "Kita harus mengikuti sistim yang berlaku sesuai dengan kebiasaan setempat.",
+        "id": 1013,
+        "question_id": 70
+      },
+      {
+        "is_correct": false,
+        "alternative": "Adik membeli obat di apotik yang buka selama dua puluh empat jam.",
+        "id": 1014,
+        "question_id": 70
+      }],
+    "created_at": {
+      "$date": 1400536906000
+    },
+    "question": "Penulisan kata serapan yang tepat pada kalimat ........",
+    "id": 70,
+    "id_google": 1295,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Dr. Rahmat, M.E. akan mengadakan penelitian evaluasi pendidikan di kota ini. ",
+      "id": 436,
+      "question_id": 71
+    },
+      {
+        "is_correct": false,
+        "alternative": "Kami akan berkonsultasi dengan Prof. Arman PH",
+        "id": 437,
+        "question_id": 71
+      },
+      {
+        "is_correct": false,
+        "alternative": "Drs. Sumijan, M.M selaku wali kota, mengadakan kunjungan mendadak. ",
+        "id": 438,
+        "question_id": 71
+      },
+      {
+        "is_correct": false,
+        "alternative": "Menurut Prof. Dr. Nurpraman M.SC., penelitian tanpa izin itu tidak dibenarkan. ",
+        "id": 439,
+        "question_id": 71
+      },
+      {
+        "is_correct": false,
+        "alternative": "Keberadaan dr. Dekarwati. M.Kes. di puskesmas ini tidak asing lagi bagi masyarakat. ",
+        "id": 440,
+        "question_id": 71
+      }],
+    "created_at": {
+      "$date": 1400537012000
+    },
+    "question": "Penulisan nama yang diikuti gelar akademis yang tepat terdapat dalam kalimat ........",
+    "id": 71,
+    "id_google": 1290,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "identitas buku",
+      "id": 441,
+      "question_id": 72
+    },
+      {
+        "is_correct": false,
+        "alternative": "sinopsis cerita",
+        "id": 442,
+        "question_id": 72
+      },
+      {
+        "is_correct": false,
+        "alternative": "kebahasaan pengarang",
+        "id": 443,
+        "question_id": 72
+      },
+      {
+        "is_correct": false,
+        "alternative": "keunggulan dan kelemahan",
+        "id": 444,
+        "question_id": 72
+      },
+      {
+        "is_correct": true,
+        "alternative": "kepengarangan",
+        "id": 445,
+        "question_id": 72
+      }],
+    "created_at": {
+      "$date": 1400537084000
+    },
+    "question": "Novel Salah Asuhan dikarang oleh Abdul Muis, seorang putra Minangkabau yang berkecimpung dalam dunia politik dan juga seorang wartawan. Banyak karya sastra yang ditulisnya, antara lain Pertemuan Jodoh (1993), Surapati (1950), Robert Anak Surapati (1953), dan cerita terjemahan: Tom Sawyer Anak Amerika, Sebatang Kara, dan Don Kisot.\nUnsur yang dominan dari penggalan resensi di atas adalah ........ ",
+    "id": 72,
+    "id_google": 1288,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Kita harus menghargai sikap dan pendapat seseorang",
+      "id": 446,
+      "question_id": 73
+    },
+      {
+        "is_correct": true,
+        "alternative": "Jangan berprasangka buruk terhadap seseorang.",
+        "id": 447,
+        "question_id": 73
+      },
+      {
+        "is_correct": false,
+        "alternative": "Setiap orang mempunyai kelebihan.",
+        "id": 448,
+        "question_id": 73
+      },
+      {
+        "is_correct": false,
+        "alternative": "Kita harus percaya kepada seseorang.",
+        "id": 449,
+        "question_id": 73
+      },
+      {
+        "is_correct": false,
+        "alternative": "Kekuasaan menghasilkan kesewenang-wenangan.",
+        "id": 450,
+        "question_id": 73
+      }],
+    "created_at": {
+      "$date": 1400537177000
+    },
+    "question": "Kang Lantip tersenyum. \nKarena saya tidak percaya kepada sistem yang melahirkan dan membesarkan penguasa yang begitu kejam seperti Stalin. Sama dengan tidak percaya saya kepada sistem yang melahirkan Hitler dan Mussolini. Dan sudah tentu, juga tidak percaya kepada sistem yang melahirkan Amangkurat yang dengan kejamnya membunuhsantri-santri. Sistem-sistem seperti itu mengandung bibit-bibit kekerasan yang selaluakan mengambil korban ribuan orang yang tidak bersalah!! Saya terkejut mendengar suaranya Lantip, kakang saya, yang lemah lembut, sopan, penuh tata krama, dengansekali tebas membabat tiga sistem kekuasaan yang besar. \"Para Priyayi, Umar Kayam \: 290\" Amanat penggalan novel di atas adalah ...",
+    "id": 73,
+    "id_google": 1287,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "orang ketiga sebagai pencerita",
+      "id": 451,
+      "question_id": 74
+    },
+      {
+        "is_correct": false,
+        "alternative": "orang pertama sebagai tokoh utama",
+        "id": 452,
+        "question_id": 74
+      },
+      {
+        "is_correct": false,
+        "alternative": "orang pertama sebagai tokoh sampingan",
+        "id": 453,
+        "question_id": 74
+      },
+      {
+        "is_correct": false,
+        "alternative": "orang pertama bukan tokoh utama",
+        "id": 454,
+        "question_id": 74
+      },
+      {
+        "is_correct": false,
+        "alternative": "orang pertama dan ketiga",
+        "id": 455,
+        "question_id": 74
+      }],
+    "created_at": {
+      "$date": 1400537305000
+    },
+    "question": "\"Anak tukang cukur itu mau menikah. Nasibnya baik. Dia mendapatkan jodoh seorang pegawai negeri. Siapa mengira, anak si tukang cukur, bisa mendapatkan jodohnya seorang pegawai kantoran.\"\nSudut pandang yang digunakan pengarang dalam kutipan tersebut adalah ........",
+    "id": 74,
+    "id_google": 1292,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "pandangan mengenai takdir",
+      "id": 456,
+      "question_id": 75
+    },
+      {
+        "is_correct": false,
+        "alternative": "usaha melawan takdir ",
+        "id": 457,
+        "question_id": 75
+      },
+      {
+        "is_correct": true,
+        "alternative": "perbedaan takdir manusia",
+        "id": 458,
+        "question_id": 75
+      },
+      {
+        "is_correct": false,
+        "alternative": "nasib merupakan takdir",
+        "id": 459,
+        "question_id": 75
+      },
+      {
+        "is_correct": false,
+        "alternative": "pasrah menjalani takdir",
+        "id": 460,
+        "question_id": 75
+      }],
+    "created_at": {
+      "$date": 1400537400000
+    },
+    "question": "\nTina : Tuhan menakdirkan semua nasib manusia, kita hanya menjalani. \nIbu : Nah, pikiran begitu itulah yang tak kusukai, kau sudah ditakdirkan Tuhan punya suami buta, tak adakah niatmu, tidak adakah usahamu untuk mengubah takdir itu? Sebab takdir itu baru jatuh setelah manusia berusaha. Tina, kau bukan anakku jika kau tidak berani melawan takdir yang pahit. \nTina : Aku sudah berusaha, Abas juga sudah berusaha, dan inilah hasilnya. Kami dapat membelanjai diri untuk hidup sehari-hari. \nKonflik yang terjadi antara tokoh Tina dan ibu didasari oleh ........",
+    "id": 75,
+    "id_google": 1289,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "menguraikan watak tokoh",
+      "id": 461,
+      "question_id": 76
+    },
+      {
+        "is_correct": false,
+        "alternative": "tanggapan tokoh lain",
+        "id": 462,
+        "question_id": 76
+      },
+      {
+        "is_correct": false,
+        "alternative": "lingkungan tokoh",
+        "id": 463,
+        "question_id": 76
+      },
+      {
+        "is_correct": true,
+        "alternative": "dialog antar tokoh",
+        "id": 464,
+        "question_id": 76
+      },
+      {
+        "is_correct": false,
+        "alternative": "lewat pikiran tokoh",
+        "id": 465,
+        "question_id": 76
+      }],
+    "created_at": {
+      "$date": 1400537600000
+    },
+    "question": "\"Aku tidak percaya! Aku tidak percaya, jika hanya oleh melompat-lompat dan berkejaran semalaman penuh. Aku tidak percaya itu. Aku mulai percaya desas-desus itu bahwa kau orang yang tamak. Orang yang kikir. Penghisap. Lintah darat. Inilah ganjarannya! Aku mulai percaya desas-desus itu, tentang dukun-dukun yang mengilui luka sunatan anak-anak kita. Aku mulai yakin bahwa itu karena kesombonganmu, kekikiranmu, angkuhmu, dan tak mau tahu dengan mereka. Aku yakin, mereka menaruhracun di pisau dukun-dukun itu. (Panggilan Rasul, Hamzah rangka) Pendeskripsian watak tokoh \"aku\" yang digunakan pengarang dalam cerpen di atas melalui ........",
+    "id": 76,
+    "id_google": 1291,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "moral",
+      "id": 466,
+      "question_id": 77
+    },
+      {
+        "is_correct": false,
+        "alternative": "sosial",
+        "id": 467,
+        "question_id": 77
+      },
+      {
+        "is_correct": true,
+        "alternative": "agama",
+        "id": 468,
+        "question_id": 77
+      },
+      {
+        "is_correct": false,
+        "alternative": "budaya",
+        "id": 469,
+        "question_id": 77
+      },
+      {
+        "is_correct": false,
+        "alternative": "estetika",
+        "id": 470,
+        "question_id": 77
+      }],
+    "created_at": {
+      "$date": 1400621795000
+    },
+    "question": "Sedari mudaku aku di sini, bukan. Tak kuingat punya istri, punya anak, punya keluarga seperti orang-orang lain, tahu? Tak kupikirkan hidupku sendiri. Aku tak ingin jadi kaya, bikin rumah. Segala kehidupanku, lahir batin, kuserahkan kepada Allah Subhanahu wata'alTidak pernah aku menyusahkan orang lain. Lalat seekor aku enggan membunuhnyTapi kini aku dikatakan manusia terkutuk. Umpan nerakMarahkah Tuhan kalau itu yang kulakukan, sangkamu? Akan dikutuki-Nya aku kalau selama hidupku aku mengabdi kepada-Nya? Tak kupikirkan hari esokku, karena aku yakin Tuhan itu ada dan pengasih penyayang kepada umat-Nya yang tawakal. Aku bangun pagi-pagi. Aku bersuci. Aku pukul bedug membangunkan manusia dari tidurnya, supaya bersujud kepada-Nya Aku sembahyang setiap waktu, siang malam, pagi sore Aku sebut-sebut nama-Nya selalu. Aku puji puji diAku baca kitab-Nya. Alhamdulillah, kataku bila aku menerima karunia-Nya. (Robohnya Surau Kami: A.Navis) \nNilai yang terkandung dalam cerpen di atas adalah ...",
+    "id": 77,
+    "id_google": 1279,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Setiap orang hendaknya selalu menjaga persahabatan bukan permusuhan.",
+      "id": 471,
+      "question_id": 78
+    },
+      {
+        "is_correct": false,
+        "alternative": "Segala kata yang terucap harus dilandasi dengan emosi.",
+        "id": 472,
+        "question_id": 78
+      },
+      {
+        "is_correct": false,
+        "alternative": "Setiap terjadi peperangan pasti akan timbul pembalasan.",
+        "id": 473,
+        "question_id": 78
+      },
+      {
+        "is_correct": true,
+        "alternative": "Setiap pekerjaan itu ada bahayanya maka berhati-hatilah dengan ucapan.",
+        "id": 474,
+        "question_id": 78
+      },
+      {
+        "is_correct": false,
+        "alternative": "Segala ucap hendaknya dipikirkan bersama-sama",
+        "id": 475,
+        "question_id": 78
+      }],
+    "created_at": {
+      "$date": 1400621911000
+    },
+    "question": "Perhatikan kutipan berikut :\"Hai anakku, janganlah engkau beringin-ingin peperangan. Jikalau mudah sekalipun, ketahui bahwa segala perbuatan itu niscaya berbalas juMaka pelihara engkau kan akhir pekerjaan, bahwa bahaya itu terkejut datangnya Maka seyogianya engkau dari dahulu pelihara daripadanya dan perteguh olehmu barang kata yang keluar daripada mulutmu dengan akalmu. (\"Hikayat Iskandar Zulkarnain\" dalam Kesusasatraan Melayu Klasik sepanjang Abad karya Teuku Iskandar) \nNilai-nilai yang terkandung dalam kutipan di atas adalah ........",
+    "id": 78,
+    "id_google": 1277,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": " ",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "manusia yang melupakan Tuhannya",
+      "id": 1015,
+      "question_id": 79
+    },
+      {
+        "is_correct": false,
+        "alternative": "Tuhan menegur manusia melalui bencana",
+        "id": 1016,
+        "question_id": 79
+      },
+      {
+        "is_correct": false,
+        "alternative": "siksaan akan datang bagi orang yang melupakan",
+        "id": 1017,
+        "question_id": 79
+      },
+      {
+        "is_correct": false,
+        "alternative": "manusia selalu ada dalam kasih sayang Tuhan",
+        "id": 1018,
+        "question_id": 79
+      },
+      {
+        "is_correct": true,
+        "alternative": "teguran Tuhan ada yang ringan dan ada yang berat",
+        "id": 1019,
+        "question_id": 79
+      }],
+    "created_at": {
+      "$date": 1400622016000
+    },
+    "question": "Tuhan Telah Menegurmu Tuhan telah menegurmu dengan cukup sopan lewat perut anak-anak yang kelaparan. Tuhan telah menegurmu dengan cukup sopan. lewat semayup suara adzan Tuhan telah menegurmu dengan cukup menahan kesabaran lewat gempa bumi yang berguncang deru angin yang meraung kencang hujan dan banjir yang melintang pukang. Adakah kau dengar? (Apip Mustopa) Puisi tersebut mengungkapkan ........",
+    "id": 79,
+    "id_google": 1280,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "bersembunyi dibalik pintu",
+      "id": 483,
+      "question_id": 80
+    },
+      {
+        "is_correct": false,
+        "alternative": "menjilat keatas",
+        "id": 484,
+        "question_id": 80
+      },
+      {
+        "is_correct": true,
+        "alternative": "datang kemari",
+        "id": 485,
+        "question_id": 80
+      },
+      {
+        "is_correct": false,
+        "alternative": "pergi keluar negeri",
+        "id": 486,
+        "question_id": 80
+      },
+      {
+        "is_correct": false,
+        "alternative": "tertera dibawah ini",
+        "id": 487,
+        "question_id": 80
+      }],
+    "created_at": {
+      "$date": 1400622321000
+    },
+    "question": "Kata depan yang ditulis secara benar terdapat pada .... ",
+    "id": 80,
+    "id_google": 1281,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Adat sopan-santun",
+      "id": 489,
+      "question_id": 81
+    },
+      {
+        "is_correct": false,
+        "alternative": "Muka merah-padam",
+        "id": 490,
+        "question_id": 81
+      },
+      {
+        "is_correct": true,
+        "alternative": "Kaum muda-belia",
+        "id": 491,
+        "question_id": 81
+      },
+      {
+        "is_correct": false,
+        "alternative": "Rumah porak-poranda",
+        "id": 492,
+        "question_id": 81
+      },
+      {
+        "is_correct": false,
+        "alternative": "Penuh kasih-sayang",
+        "id": 493,
+        "question_id": 81
+      }],
+    "created_at": {
+      "$date": 1400622440000
+    },
+    "question": "Tanda hubung yang digunakan secara benar terdapat pada.......",
+    "id": 81,
+    "id_google": 1284,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Terdakwa menurut hakim, terbukti bersalah.",
+      "id": 497,
+      "question_id": 82
+    },
+      {
+        "is_correct": false,
+        "alternative": "Perusahaan itu bangkrut, karena ulah direktur utamanya.",
+        "id": 498,
+        "question_id": 82
+      },
+      {
+        "is_correct": false,
+        "alternative": "Dia belum berhasil, meskipun sudah bekerja keras.",
+        "id": 499,
+        "question_id": 82
+      },
+      {
+        "is_correct": true,
+        "alternative": "Jika tidak segera diberantas, peredaran narkoba akan semakin merajalela.",
+        "id": 500,
+        "question_id": 82
+      },
+      {
+        "is_correct": false,
+        "alternative": "Pengalaman hidup itu, guru yang baik.",
+        "id": 501,
+        "question_id": 82
+      }],
+    "created_at": {
+      "$date": 1400622506000
+    },
+    "question": "Tanda koma yang digunakan secara tepat terdapat pada....",
+    "id": 82,
+    "id_google": 1286,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Rancangan Undang-undang itu sedang dibahas.",
+      "id": 502,
+      "question_id": 84
+    },
+      {
+        "is_correct": false,
+        "alternative": "Beberapa Sekolah Dasar di daerah terpencil kekurangan guru.",
+        "id": 503,
+        "question_id": 84
+      },
+      {
+        "is_correct": false,
+        "alternative": "Bahasa Indonesia ditetapkan sebagai Bahasa Negara dalam Undang-Undang Dasar kita.",
+        "id": 504,
+        "question_id": 84
+      },
+      {
+        "is_correct": false,
+        "alternative": "Makalah berjudul ?Globalisasi dan Imperialisme?",
+        "id": 505,
+        "question_id": 84
+      },
+      {
+        "is_correct": false,
+        "alternative": "Peng-Indonesiaan istilah asing perlu digalakkan.",
+        "id": 506,
+        "question_id": 84
+      }],
+    "created_at": {
+      "$date": 1400622856000
+    },
+    "question": "Huruf kapital yang digunakan secara benar terdapat pada....",
+    "id": 84,
+    "id_google": 1285,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Mengubah haluan",
+      "id": 507,
+      "question_id": 85
+    },
+      {
+        "is_correct": false,
+        "alternative": "Mengukuhkan jabatan",
+        "id": 508,
+        "question_id": 85
+      },
+      {
+        "is_correct": false,
+        "alternative": "Memantapkan jati diri",
+        "id": 509,
+        "question_id": 85
+      },
+      {
+        "is_correct": true,
+        "alternative": "Menjajaki pendapat umum",
+        "id": 510,
+        "question_id": 85
+      },
+      {
+        "is_correct": false,
+        "alternative": "Bertekat bulat",
+        "id": 511,
+        "question_id": 85
+      }],
+    "created_at": {
+      "$date": 1400622968000
+    },
+    "question": "Kata yang tidak cocok digunakan dalam komunikasi tulis resmi terdapat pada ....",
+    "id": 85,
+    "id_google": 1283,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Azas partal",
+      "id": 512,
+      "question_id": 86
+    },
+      {
+        "is_correct": false,
+        "alternative": "Sikap emosionil",
+        "id": 513,
+        "question_id": 86
+      },
+      {
+        "is_correct": true,
+        "alternative": "Aktifitas anak",
+        "id": 514,
+        "question_id": 86
+      },
+      {
+        "is_correct": false,
+        "alternative": "Segi kognitif",
+        "id": 515,
+        "question_id": 86
+      },
+      {
+        "is_correct": false,
+        "alternative": "Sujut syukur",
+        "id": 516,
+        "question_id": 86
+      }],
+    "created_at": {
+      "$date": 1400623019000
+    },
+    "question": "Kata serapan yang cocok digunakan dalam komunikasi tulis resmi terdapat pada ...",
+    "id": 86,
+    "id_google": 1282,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Kelengkapan",
+      "id": 517,
+      "question_id": 89
+    },
+      {
+        "is_correct": false,
+        "alternative": "Pelengkapan",
+        "id": 518,
+        "question_id": 89
+      },
+      {
+        "is_correct": false,
+        "alternative": "Pemerlengkap",
+        "id": 519,
+        "question_id": 89
+      },
+      {
+        "is_correct": false,
+        "alternative": "Pelengkap",
+        "id": 520,
+        "question_id": 89
+      },
+      {
+        "is_correct": true,
+        "alternative": "Perlengkapan",
+        "id": 521,
+        "question_id": 89
+      }],
+    "created_at": {
+      "$date": 1400623478000
+    },
+    "question": "Sudah saatnya ....peralatan militer kita segera dilakukan. \nKalimat yang tepat untuk melengkapi kalimat di atas adalah....",
+    "id": 89,
+    "id_google": 1274,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Siapapun yang bersalah, ia harus dihukum.",
+      "id": 522,
+      "question_id": 90
+    },
+      {
+        "is_correct": false,
+        "alternative": "Sesudah berunding selama lima jam, putusan baru dapat diambil.",
+        "id": 523,
+        "question_id": 90
+      },
+      {
+        "is_correct": true,
+        "alternative": "Krisis ekonomi terjadi disebabkan karena korupsi, kolusi, dan nepotisme merajalela",
+        "id": 524,
+        "question_id": 90
+      },
+      {
+        "is_correct": false,
+        "alternative": "Alasannya adalah karena dia tidak patuh kepada atasan.",
+        "id": 525,
+        "question_id": 90
+      }],
+    "created_at": {
+      "$date": 1400623752000
+    },
+    "question": "Susunan kalimat yang tidak janggal terdapat pada ....",
+    "id": 90,
+    "id_google": 1272,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Sebelum ada ledakan penduduk di perkotaan dan pemilikan kendaraan pribadi, kota Jakarta masih terasa nyaman.",
+      "id": 526,
+      "question_id": 91
+    },
+      {
+        "is_correct": true,
+        "alternative": "Hal yang perlu diperhatikan lebih lanjut adalah keterkaitan sistem transportasi yang terpadu dengan struktur kota Jakarta",
+        "id": 527,
+        "question_id": 91
+      },
+      {
+        "is_correct": false,
+        "alternative": "Upaya yang dilakukan pemerintah daerah selama ini hanya masalah pelebaran jalan dan pembuatan jalan layang.",
+        "id": 528,
+        "question_id": 91
+      },
+      {
+        "is_correct": false,
+        "alternative": "Keadaan seperti itu dapat dijadikan alasan agar sistem transportasi massa di kota Jakarta segera dibangun.",
+        "id": 529,
+        "question_id": 91
+      }],
+    "created_at": {
+      "$date": 1400623824000
+    },
+    "question": "Fasilitas jalan masih terus dibangun di Kota Jakarta. Meskipun demikian, kepadatan dan kemacetan lalu lintas selalu terjadi setiap hari, baik pada pagi hari saat warga kota Jakarta dan sekitarnya akan memulai aktivitasnya, maupun sore hari saat mereka pulangke rumahnya..... \nKalimat yang sesuai sebagai kelanjutan paragraf diatas adalah .....",
+    "id": 91,
+    "id_google": 1273,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Sakit-sakit",
+      "id": 530,
+      "question_id": 92
+    },
+      {
+        "is_correct": false,
+        "alternative": "Tinggi-tinggi",
+        "id": 531,
+        "question_id": 92
+      },
+      {
+        "is_correct": false,
+        "alternative": "Duduk-duduk",
+        "id": 532,
+        "question_id": 92
+      },
+      {
+        "is_correct": true,
+        "alternative": "Pikiran-pikiran",
+        "id": 533,
+        "question_id": 92
+      }],
+    "created_at": {
+      "$date": 1400623868000
+    },
+    "question": "Para tokoh masyarakat memandang bahwa ide-ide para mahasiswa yang disampaikan kepada pemerintah melalui demontrasi belum direspon secara proporsional. \nKata ulang yang semakna dengan kata ulang bercetak miring dalam kalimat di atas adalah .... ",
+    "id": 92,
+    "id_google": 1271,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Kedua pengantin itu merasakan kebahagiaan yang selama ini mereka dambakan.",
+      "id": 534,
+      "question_id": 93
+    },
+      {
+        "is_correct": false,
+        "alternative": "Ledakan bom itu kedengaran sampai ke seluruh lantai gedung.",
+        "id": 535,
+        "question_id": 93
+      },
+      {
+        "is_correct": false,
+        "alternative": "Masalah kemiskinan di Indonesia harus ditangani secara serius.",
+        "id": 536,
+        "question_id": 93
+      },
+      {
+        "is_correct": true,
+        "alternative": "Petani itu keracunan setelah makan sayuran mentah.",
+        "id": 537,
+        "question_id": 93
+      }],
+    "created_at": {
+      "$date": 1400624192000
+    },
+    "question": "Anak itu menderita sakit akibat kehujanan sepanjang perjalanan menuju ke rumahnya. \nKata berimbuhan ke-an pada kata bercetak miring dalam kalimat di atas semakna dengan kata berimbuhan ke-an dalam kalimat .....",
+    "id": 93,
+    "id_google": 1270,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": " ",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Fakultas itu mempunai jurusan: Kimia, Geologi, biologi, dan Geodesi.",
+      "id": 538,
+      "question_id": 94
+    },
+      {
+        "is_correct": false,
+        "alternative": "Dalam rapat itu yang hadir hanya: Mattalata, Faisol, Rogers, dan Rozi.",
+        "id": 539,
+        "question_id": 94
+      },
+      {
+        "is_correct": false,
+        "alternative": "Saya masih memerlukan perabot rumah tangga: meja, almari, dan kursi",
+        "id": 540,
+        "question_id": 94
+      },
+      {
+        "is_correct": false,
+        "alternative": "Sebentar lagi anak saya akan membeli: radio, jam dinding, dan tas.",
+        "id": 541,
+        "question_id": 94
+      }],
+    "created_at": {
+      "$date": 1400624297000
+    },
+    "question": "Pemakaian tanda titik dua dalam kalimat-kalimat berikut yang sesuai dengan Pedoman Umum EYD adalah ...",
+    "id": 94,
+    "id_google": 1269,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": " ",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Dr. Valentino Woworuntu, MBA.",
+      "id": 542,
+      "question_id": 96
+    },
+      {
+        "is_correct": false,
+        "alternative": "DR. Lajnah Latifah, M.Pd.",
+        "id": 543,
+        "question_id": 96
+      },
+      {
+        "is_correct": false,
+        "alternative": "Ir. Lois Lalu, M",
+        "id": 544,
+        "question_id": 96
+      },
+      {
+        "is_correct": false,
+        "alternative": "I.R. Cordiva Aridho, M.M.",
+        "id": 545,
+        "question_id": 96
+      }],
+    "created_at": {
+      "$date": 1400624451000
+    },
+    "question": "Penulisan nama dengan gelar kesarjanaannya yang tepat terdapat dalam contoh.... ",
+    "id": 96,
+    "id_google": 1266,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Petemun nonformal antara kedua presiden itu akan berlangsung di Istana Bogor.",
+      "id": 546,
+      "question_id": 97
+    },
+      {
+        "is_correct": false,
+        "alternative": "Komunikasi telepon antar kota di Kupang sempat putus karena ada gangguan teknis.",
+        "id": 547,
+        "question_id": 97
+      },
+      {
+        "is_correct": false,
+        "alternative": "Bantuan masyarakat kepada para tuna rungu masih perlu ditingkatkan.",
+        "id": 548,
+        "question_id": 97
+      },
+      {
+        "is_correct": false,
+        "alternative": "Setiap sub-bab dalambuku itu perlu dibaca agar dapat dipahami isinya.",
+        "id": 549,
+        "question_id": 97
+      }],
+    "created_at": {
+      "$date": 1400624547000
+    },
+    "question": "Penulisan Imbuhan serapan yang sesuai dengan Pedoman Umum EYD terdapat pada contoh kalimat .....",
+    "id": 97,
+    "id_google": 1268,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Mereka, sebenarnya bukan pemain yang berbakat melainkan pemain yang mempunyai kemauan keras.",
+      "id": 550,
+      "question_id": 98
+    },
+      {
+        "is_correct": true,
+        "alternative": "Sebetulnya, tim Indonesia ebih banyak memiliki peluang emas, tetapi karena penyelesainna kurang baik, akhirnya kalah melawan tim Malaysia.",
+        "id": 551,
+        "question_id": 98
+      },
+      {
+        "is_correct": false,
+        "alternative": "Dia harus membatalkan niatnya pergi ke Paris, karena pesawat yang mau ditumpangi rusak.",
+        "id": 552,
+        "question_id": 98
+      },
+      {
+        "is_correct": false,
+        "alternative": "Para politisi dan pejabat pemerintah, diharapkan bekerja lebih keras agar masyarakat lebih sejahtera.",
+        "id": 553,
+        "question_id": 98
+      },
+      {
+        "is_correct": false,
+        "alternative": "Penghasilan utama daerah jawa barat, adalah padi sedangkan daerah Maluku adalah rempah-rempah.",
+        "id": 554,
+        "question_id": 98
+      }],
+    "created_at": {
+      "$date": 1400624765000
+    },
+    "question": "Pemakaian tanda koma dalam kalimat berikut yang tepat adalah ......",
+    "id": 98,
+    "id_google": 1267,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": " Monarkhi, akhir analisa, autopsi",
+      "id": 555,
+      "question_id": 99
+    },
+      {
+        "is_correct": false,
+        "alternative": "Sekunder, ransliterasi,otopsi, varitas",
+        "id": 556,
+        "question_id": 99
+      },
+      {
+        "is_correct": true,
+        "alternative": "Teknik, khlorida, komplit, materiel",
+        "id": 557,
+        "question_id": 99
+      },
+      {
+        "is_correct": false,
+        "alternative": "Frekwensi, ekstrimis, etletik, grup",
+        "id": 558,
+        "question_id": 99
+      }],
+    "created_at": {
+      "$date": 1400687294000
+    },
+    "question": "Rangkaian penulisan kata serapan yang sesuai dengan EYD adalah....",
+    "id": 99,
+    "id_google": 1265,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Ibarat kembang, bagus dipakai, layu dibuang.",
+      "id": 559,
+      "question_id": 100
+    },
+      {
+        "is_correct": false,
+        "alternative": "Di mana tanah dipijak, di situ langit dijunjung.",
+        "id": 560,
+        "question_id": 100
+      },
+      {
+        "is_correct": true,
+        "alternative": "Lain ldang, lain belakang.",
+        "id": 561,
+        "question_id": 100
+      },
+      {
+        "is_correct": false,
+        "alternative": "Ayam hitam terbang malam.",
+        "id": 562,
+        "question_id": 100
+      }],
+    "created_at": {
+      "$date": 1400687433000
+    },
+    "question": "Di daerahnya, di pelosok kampung, Pak Sembiring terbiasa menggunakan bahasa daerahnya. Ketika dia pindah ke Jakarta, kebiasannya masih saja dipertahankan. Pantaslah banyak orang terdiam atau senyum-senyum jika diajak bicara Pak Sembiring karena mereka tidakpaham apa yang dikatakannya. \nKebiasaan Pak Semibiring sesuai dengan ilustrasi di atas, tidak sejalan dengan peribahasa...",
+    "id": 100,
+    "id_google": 1264,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Pleonasme",
+      "id": 563,
+      "question_id": 101
+    },
+      {
+        "is_correct": false,
+        "alternative": "Litotes",
+        "id": 564,
+        "question_id": 101
+      },
+      {
+        "is_correct": true,
+        "alternative": "Personifikasi",
+        "id": 565,
+        "question_id": 101
+      },
+      {
+        "is_correct": false,
+        "alternative": "Eufemisme",
+        "id": 566,
+        "question_id": 101
+      }],
+    "created_at": {
+      "$date": 1400687575000
+    },
+    "question": "Di sini angin pun kecil-kecil dan mengusap wajah kita Di luar musim pun menyekap dan engahan udara Menghembus pohon-pohon, membelai-belai wajah kita Di serambi. Dingin lewat dan berhenti Bersama langkahku. Bersama bisikan di pusat hatimu... Angin Kecil-Kecil dan Musim Menyekap Kita, Abdul hadi. \nPenggalan puisi diatas menggunakan majas .... ",
+    "id": 101,
+    "id_google": 1263,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Turutilah nasihat orang tua bila ingin berhasil.",
+      "id": 567,
+      "question_id": 102
+    },
+      {
+        "is_correct": false,
+        "alternative": "Jangan melakukan perbuatan yang akhirnya merugikan diri sendiri.",
+        "id": 568,
+        "question_id": 102
+      },
+      {
+        "is_correct": false,
+        "alternative": "Seorang wanita harus memelihara kecantikannya.",
+        "id": 569,
+        "question_id": 102
+      },
+      {
+        "is_correct": false,
+        "alternative": "Seorang ibu mertua harus menyayangi menantunya.",
+        "id": 570,
+        "question_id": 102
+      }],
+    "created_at": {
+      "$date": 1400696113000
+    },
+    "question": "Berpuasa sunat itu besar manfaatnya, Rapiah tadi sementara itu wajib benar bagimu memelihara kewarasan tubuhmu. Jangan rupamu secara ini, tinggal kulit pembalut tulang saja?. Benar sekali badanmu menjadi kurus, Ibu. Tapi bukanlah kurus itu disebabkan oleh berpuasa. Meskipun kurus, tetapi perasaanku kesehatan tubuh tidaklah terganggu. Salah Asuhan, Abdol Moeis. \nApa amanat yang terungkap dalam penggalan novel di atas?",
+    "id": 102,
+    "id_google": 1262,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": " ",
+    "id_category": 1,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Perhatian",
+      "id": 576,
+      "question_id": 104
+    },
+      {
+        "is_correct": false,
+        "alternative": "Tidak dendam",
+        "id": 577,
+        "question_id": 104
+      },
+      {
+        "is_correct": false,
+        "alternative": "Tanggung jawab",
+        "id": 578,
+        "question_id": 104
+      },
+      {
+        "is_correct": true,
+        "alternative": "Kasih sayang",
+        "id": 579,
+        "question_id": 104
+      },
+      {
+        "is_correct": false,
+        "alternative": "Setia kawan",
+        "id": 580,
+        "question_id": 104
+      }],
+    "created_at": {
+      "$date": 1400790566000
+    },
+    "question": "Tak sampai haatinya hendak meninggalkan Medasing sakit, tiada berdaya seorang diri di rimba itu. Meskipun laki-laki itulah pangkal kemelaratannya, meskipun kepala penyamun yang buas itulah yang menganiaya ayah bundanya, sehinga tak tentu apa jadi mereka sekarang ini, dalam penghidupannya yang aman di tengah-tengah rimba di tengah penyamun-penyamun yang tak mengusiknya itu, dengan tiada setahunnya tumbuh di kalbunya tali perhibungan dengan merekBukan dalam perbuatan mereka yang buas, tetapi dalam perasaan hidup ... Anak Perawan di Sarang penyamun, ST. \nUnsur moral yang terdapat dalam penggalan novel di atas adalah .... ",
+    "id": 104,
+    "id_google": 1245,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 2,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Nasionalisme internasional (peri kemanusiaan), mufakat, kesejahteraan sosial dan kutuhanan",
+      "id": 581,
+      "question_id": 105
+    },
+      {
+        "is_correct": false,
+        "alternative": "Nasionalisme, Ketuhanan Yang Maha Esa, perikemanusiaan, kebangsaan Indonesia, mufakat dan kesejahteraan sosial",
+        "id": 582,
+        "question_id": 105
+      },
+      {
+        "is_correct": true,
+        "alternative": "Gotong royong, ketuhanan, kerakyatan, nasionalisme dan demokrasi",
+        "id": 583,
+        "question_id": 105
+      },
+      {
+        "is_correct": false,
+        "alternative": "Internasionalisme, nasionalisme, mufakat, demokrasi dan ketuhanan",
+        "id": 584,
+        "question_id": 105
+      }],
+    "created_at": {
+      "$date": 1400790962000
+    },
+    "question": "Ir.Soekarno dalam sidang BPUPKI pertama, mengusulkan rumusan Pancasila yaitu ....",
+    "id": 105,
+    "id_google": 1257,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 2,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Memahami Pancasila sebagai sumber hukum",
+      "id": 585,
+      "question_id": 106
+    },
+      {
+        "is_correct": false,
+        "alternative": "Memahami Pancasila sebagai dasar negara",
+        "id": 586,
+        "question_id": 106
+      },
+      {
+        "is_correct": true,
+        "alternative": "Berperilaku sesuai nilai-nilai Pancasila",
+        "id": 587,
+        "question_id": 106
+      },
+      {
+        "is_correct": false,
+        "alternative": "Berupaya selalu mempelajari Pancasila",
+        "id": 588,
+        "question_id": 106
+      },
+      {
+        "is_correct": false,
+        "alternative": "Mempelajari hakikat dari Pancasila",
+        "id": 589,
+        "question_id": 106
+      }],
+    "created_at": {
+      "$date": 1400791309000
+    },
+    "question": "Pancasila menjadi azas dalam kehidupan bermasyarakat, berbangsa dan bernegarOleh karena itu, setiap warga negara hendaknya....",
+    "id": 106,
+    "id_google": 1251,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 2,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Kristalisasi nilai",
+      "id": 590,
+      "question_id": 107
+    },
+      {
+        "is_correct": true,
+        "alternative": "Pedoman hidup",
+        "id": 591,
+        "question_id": 107
+      },
+      {
+        "is_correct": false,
+        "alternative": "Kepribadian bangsa",
+        "id": 592,
+        "question_id": 107
+      },
+      {
+        "is_correct": false,
+        "alternative": "Karakteristik bangsa ",
+        "id": 593,
+        "question_id": 107
+      }],
+    "created_at": {
+      "$date": 1400791401000
+    },
+    "question": "Pancasila sebagai way of life dalam kehidupan berbangsa, bernegara, dan bermasyarakat. Dalam hal ini Pancasila memiliki makna sebagai.....",
+    "id": 107,
+    "id_google": 1254,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 2,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Pemusatan kekuasaan pada beberapa orang",
+      "id": 594,
+      "question_id": 108
+    },
+      {
+        "is_correct": false,
+        "alternative": "Material modern dan individualisme",
+        "id": 595,
+        "question_id": 108
+      },
+      {
+        "is_correct": true,
+        "alternative": "Mengutamakan individualisme radikal",
+        "id": 596,
+        "question_id": 108
+      },
+      {
+        "is_correct": false,
+        "alternative": "Memaksakan praktek liberalisme",
+        "id": 597,
+        "question_id": 108
+      }],
+    "created_at": {
+      "$date": 1400797155000
+    },
+    "question": "Pancasila tidak mengenal adanya fasisme sebab fasisme bertitik tolak pada ,,,,",
+    "id": 108,
+    "id_google": 1253,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 2,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Filter bagi masuknya budaya asing",
+      "id": 598,
+      "question_id": 109
+    },
+      {
+        "is_correct": false,
+        "alternative": "Sumber budaya bangsa",
+        "id": 599,
+        "question_id": 109
+      },
+      {
+        "is_correct": true,
+        "alternative": "Ciri dan karakteristik bangsa",
+        "id": 600,
+        "question_id": 109
+      },
+      {
+        "is_correct": false,
+        "alternative": "Petunjuk pelaksanaan peraturan",
+        "id": 601,
+        "question_id": 109
+      }],
+    "created_at": {
+      "$date": 1400877144000
+    },
+    "question": "Fungsi pembukaan UUD 1945 alinea IV, yang mencantumkan dasar negara yang tersusun secara hierarki dan piramida di Indonesia menjadi....",
+    "id": 109,
+    "id_google": 1252,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 2,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Keputusan diambil melalui musyawarah mufakat",
+      "id": 602,
+      "question_id": 110
+    },
+      {
+        "is_correct": false,
+        "alternative": "Kepentingan tiap individu didahulukan",
+        "id": 603,
+        "question_id": 110
+      },
+      {
+        "is_correct": false,
+        "alternative": "Pengambil keputusan oleh pimpinan rapat",
+        "id": 604,
+        "question_id": 110
+      },
+      {
+        "is_correct": false,
+        "alternative": "Masalah harus diselesaikan dengan hati-hati",
+        "id": 605,
+        "question_id": 110
+      }],
+    "created_at": {
+      "$date": 1400877259000
+    },
+    "question": "Keunggulan demokrasi Pancasila dalam setiap pengambil keputusan ialah....",
+    "id": 110,
+    "id_google": 1250,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 2,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "tiap pasal atidak boleh saling bertentangan",
+      "id": 606,
+      "question_id": 111
+    },
+      {
+        "is_correct": false,
+        "alternative": "nilai Pancasila harus ada dalam tiap pasal",
+        "id": 607,
+        "question_id": 111
+      },
+      {
+        "is_correct": true,
+        "alternative": "tiap unsur tersebut harus saling mengisi",
+        "id": 608,
+        "question_id": 111
+      },
+      {
+        "is_correct": false,
+        "alternative": "batang tubuh merupakan penjelasan Pancasila",
+        "id": 609,
+        "question_id": 111
+      }],
+    "created_at": {
+      "$date": 1400877434000
+    },
+    "question": "Konsekuensi dari hubungan kausial organis antara Pancasila, Pembukaan UUD 1945, dan batang Tubuh UUD 1945 yang tidak dapat dipisahkan ialah ....",
+    "id": 111,
+    "id_google": 1247,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 2,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Kaum pria memiliki derajat yang lebih tinggi.",
+      "id": 610,
+      "question_id": 112
+    },
+      {
+        "is_correct": false,
+        "alternative": "Pemimpin dan pemuka masyarakat berkedudukan lebih tinggi.",
+        "id": 611,
+        "question_id": 112
+      },
+      {
+        "is_correct": true,
+        "alternative": "Manusia mempunyai derajat dan martanat yang sama",
+        "id": 612,
+        "question_id": 112
+      },
+      {
+        "is_correct": false,
+        "alternative": "Kedudukan seseorang ditentukan oelh yang dimilikinya.",
+        "id": 613,
+        "question_id": 112
+      },
+      {
+        "is_correct": false,
+        "alternative": "Kedudukan seseorang ditentukan pleh perbuatannya",
+        "id": 614,
+        "question_id": 112
+      }],
+    "created_at": {
+      "$date": 1400877675000
+    },
+    "question": "Manakah pernyataan dibawah ini yang sesuai dengan sila ke-2 Pancasila?",
+    "id": 112,
+    "id_google": 1249,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 2,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Menentukan sistem perekonomian",
+      "id": 616,
+      "question_id": 113
+    },
+      {
+        "is_correct": false,
+        "alternative": "Menentukan kerjasama dengan bangsa lain",
+        "id": 617,
+        "question_id": 113
+      },
+      {
+        "is_correct": false,
+        "alternative": "Mengakui kebebasan beragama",
+        "id": 618,
+        "question_id": 113
+      },
+      {
+        "is_correct": false,
+        "alternative": "Menentukan ketertiban lingkungan",
+        "id": 619,
+        "question_id": 113
+      },
+      {
+        "is_correct": false,
+        "alternative": "Menyatakan pendapat dan berorganisasi ",
+        "id": 620,
+        "question_id": 113
+      }],
+    "created_at": {
+      "$date": 1400877780000
+    },
+    "question": "Perwujudan hak asasi manusia dalam kehidupan berbangsa dapat dilihat dalam bentuk .....",
+    "id": 113,
+    "id_google": 1125,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 2,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Selalu berjuang untuk kepentingan negara",
+      "id": 623,
+      "question_id": 114
+    },
+      {
+        "is_correct": true,
+        "alternative": "Selalu menentang pada negara penjajah",
+        "id": 624,
+        "question_id": 114
+      },
+      {
+        "is_correct": false,
+        "alternative": "Rela berkorban untuk kepentingan keluarga",
+        "id": 625,
+        "question_id": 114
+      },
+      {
+        "is_correct": false,
+        "alternative": "Selalu mengupayakan persatuan bangsa",
+        "id": 626,
+        "question_id": 114
+      }],
+    "created_at": {
+      "$date": 1401113021000
+    },
+    "question": "Mana yang terkandung pada nilai patriotisme dalam kehidupan berbangsa adalah....",
+    "id": 114,
+    "id_google": 1248,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "   ",
+    "id_category": 2,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Berhak menentapkan Anggaran Pendapatan dan Belanja Negara",
+      "id": 639,
+      "question_id": 115
+    },
+      {
+        "is_correct": false,
+        "alternative": "Seluruh anggota DPR merangkap menjadi anggota MPR",
+        "id": 640,
+        "question_id": 115
+      },
+      {
+        "is_correct": false,
+        "alternative": "Setiap undang-undang menghendaki persetujuan DPR",
+        "id": 641,
+        "question_id": 115
+      },
+      {
+        "is_correct": false,
+        "alternative": "Merupakan mitra Presiden di bidang legislatif",
+        "id": 642,
+        "question_id": 115
+      }],
+    "created_at": {
+      "$date": 1401130960000
+    },
+    "question": "Kedudukan Dewan Perwakilan Rakyat, menurut UUD 1945, kuat karena?",
+    "id": 115,
+    "id_google": 1232,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 2,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "DPR bersidang sekurang-kurangnya sekali dalam setahun",
+      "id": 643,
+      "question_id": 116
+    },
+      {
+        "is_correct": true,
+        "alternative": "Aspirasi rakyat langsung dapat disampaikan",
+        "id": 644,
+        "question_id": 116
+      },
+      {
+        "is_correct": false,
+        "alternative": "Presiden dibantu oleh badan non departemen",
+        "id": 645,
+        "question_id": 116
+      },
+      {
+        "is_correct": false,
+        "alternative": "Presiden dibantu oleh menteri negara",
+        "id": 646,
+        "question_id": 116
+      }],
+    "created_at": {
+      "$date": 1401135621000
+    },
+    "question": "Salah satu perbedaan prinsipil antara orde reformasi dengan orde sebelumnya adalah ....",
+    "id": 116,
+    "id_google": 1246,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 2,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Pidato kenegaraan Presiden menjelang 17 Agustus",
+      "id": 647,
+      "question_id": 117
+    },
+      {
+        "is_correct": false,
+        "alternative": "Berbagai konvensi dan jurisprudensi yang berlaku",
+        "id": 648,
+        "question_id": 117
+      },
+      {
+        "is_correct": false,
+        "alternative": "Peraturan perundang-undangan yang telah berlaku ",
+        "id": 649,
+        "question_id": 117
+      },
+      {
+        "is_correct": true,
+        "alternative": "Empat pokok pikiran Pembukaan UUD 1945",
+        "id": 650,
+        "question_id": 117
+      }],
+    "created_at": {
+      "$date": 1401137673000
+    },
+    "question": "Suasana kebatinan atau cita-cita hukum dasar negara Ri terangkum dalam ...",
+    "id": 117,
+    "id_google": 1243,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 2,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Negara hukum demokrasi",
+      "id": 651,
+      "question_id": 118
+    },
+      {
+        "is_correct": false,
+        "alternative": "Negara kepolisian dan jaksa",
+        "id": 652,
+        "question_id": 118
+      },
+      {
+        "is_correct": false,
+        "alternative": "Negara hukum kesejahteraan",
+        "id": 653,
+        "question_id": 118
+      },
+      {
+        "is_correct": false,
+        "alternative": "Negara hukum dalam arti terbatas",
+        "id": 654,
+        "question_id": 118
+      }],
+    "created_at": {
+      "$date": 1401137745000
+    },
+    "question": "Di Pembukaan UUD 1945 tercantum tujuan negara, yaitu ? ..... melindungi segenap bangsa Indonesia dan seluruh tumpah darah Indonesia ...? Hal ini menunjukkan bangsa Indonesia menganut sistem dalam arti .....",
+    "id": 118,
+    "id_google": 1244,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 2,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Penjelasan lebih rinci",
+      "id": 655,
+      "question_id": 119
+    },
+      {
+        "is_correct": false,
+        "alternative": "Adanya penambahan ayat",
+        "id": 656,
+        "question_id": 119
+      },
+      {
+        "is_correct": true,
+        "alternative": "Perubahan hanya pada ayat (1)",
+        "id": 657,
+        "question_id": 119
+      },
+      {
+        "is_correct": false,
+        "alternative": "Perubahan hanya pada ayat (2)",
+        "id": 658,
+        "question_id": 119
+      },
+      {
+        "is_correct": false,
+        "alternative": "Telah mengambil perubahan",
+        "id": 659,
+        "question_id": 119
+      }],
+    "created_at": {
+      "$date": 1401138191000
+    },
+    "question": "Pada amandemen keempat UUD 1945, pasal 29, tekah disepakati ...",
+    "id": 119,
+    "id_google": 1233,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 2,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Menjaga keteriban dunia",
+      "id": 660,
+      "question_id": 120
+    },
+      {
+        "is_correct": true,
+        "alternative": "Kemerdekaan adalah hak segala bangsa",
+        "id": 661,
+        "question_id": 120
+      },
+      {
+        "is_correct": false,
+        "alternative": "Menentang penyerangan sepihak oleh AS",
+        "id": 662,
+        "question_id": 120
+      },
+      {
+        "is_correct": false,
+        "alternative": "Mendukung penyelenggaraan hubungan bilateral",
+        "id": 663,
+        "question_id": 120
+      }],
+    "created_at": {
+      "$date": 1401138238000
+    },
+    "question": "Cita-cita nasional bangsa Indonesia yang memberi corak kepada politik luar negeri Indoensia yang bebas dan aktif tercantum dalam Pembukaan UD 1945, yaitu ..",
+    "id": 120,
+    "id_google": 1242,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 2,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Ikut campur dan memihak salah satu blok",
+      "id": 664,
+      "question_id": 121
+    },
+      {
+        "is_correct": true,
+        "alternative": "Pengiriman pasukan perdamaian ke wilayah konflik",
+        "id": 665,
+        "question_id": 121
+      },
+      {
+        "is_correct": false,
+        "alternative": "Memberi bantuan senjata kepada negara yang bertikai",
+        "id": 666,
+        "question_id": 121
+      },
+      {
+        "is_correct": false,
+        "alternative": "Menghimpun negara sepaham dan se-idologi",
+        "id": 667,
+        "question_id": 121
+      }],
+    "created_at": {
+      "$date": 1401138413000
+    },
+    "question": "Contoh pelaksanaan politik luar negeri yang bebas dan aktif berdasarkan Pancasila adalah ...",
+    "id": 121,
+    "id_google": 0,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 2,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Keberhasilan pembangunan bangsa Indonesai sangat bergantung pada dunia internasional",
+      "id": 668,
+      "question_id": 122
+    },
+      {
+        "is_correct": false,
+        "alternative": "Indonesia merupakan anggota PBB yang ke 50",
+        "id": 669,
+        "question_id": 122
+      },
+      {
+        "is_correct": false,
+        "alternative": "Pemerintah Indonesia memiliki kedaulatan yang sah",
+        "id": 670,
+        "question_id": 122
+      },
+      {
+        "is_correct": false,
+        "alternative": "Bangsa Indonesia adalah bagian mutlak dar bangsa-bangsa di dunia",
+        "id": 671,
+        "question_id": 122
+      }],
+    "created_at": {
+      "$date": 1401138772000
+    },
+    "question": "Bangsa Indonesia tidak dapat berdiam diri terhadap peristiwa-peristiwa internasional yang membuat suatu negara terpuruk karena ...",
+    "id": 122,
+    "id_google": 1236,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 2,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Terbuka",
+      "id": 672,
+      "question_id": 123
+    },
+      {
+        "is_correct": true,
+        "alternative": "Kaku",
+        "id": 673,
+        "question_id": 123
+      },
+      {
+        "is_correct": false,
+        "alternative": "Kontemporer",
+        "id": 674,
+        "question_id": 123
+      },
+      {
+        "is_correct": false,
+        "alternative": "Progresif",
+        "id": 675,
+        "question_id": 123
+      }],
+    "created_at": {
+      "$date": 1401138920000
+    },
+    "question": "Karena nilai dasar Pancasila tetap tidak mengalami perubahan, maka Pancasila tergolong pada ideologi yang ...",
+    "id": 123,
+    "id_google": 1241,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 2,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Perbandingan perkembangan ideologi ",
+      "id": 678,
+      "question_id": 125
+    },
+      {
+        "is_correct": true,
+        "alternative": "Penyaringan masuknya ideologi asing",
+        "id": 679,
+        "question_id": 125
+      },
+      {
+        "is_correct": false,
+        "alternative": "Perpaduan filsafat dan ideologi",
+        "id": 680,
+        "question_id": 125
+      },
+      {
+        "is_correct": false,
+        "alternative": "Perebutan hegemoni filsafat",
+        "id": 681,
+        "question_id": 125
+      },
+      {
+        "is_correct": false,
+        "alternative": "Unsur ideologi setiap bangsa",
+        "id": 682,
+        "question_id": 125
+      }],
+    "created_at": {
+      "$date": 1401139853000
+    },
+    "question": "Fungsi filsafat Pancasila dalam hubungan dengan ideologi-ideologi di dunia adalah sebagai ....",
+    "id": 125,
+    "id_google": 1234,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 3,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Bantuan diplomasi",
+      "id": 683,
+      "question_id": 126
+    },
+      {
+        "is_correct": true,
+        "alternative": "Kerja sama militer",
+        "id": 684,
+        "question_id": 126
+      },
+      {
+        "is_correct": false,
+        "alternative": "Hubungan diplomatik",
+        "id": 685,
+        "question_id": 126
+      },
+      {
+        "is_correct": false,
+        "alternative": "Kunjungan kepala negara",
+        "id": 686,
+        "question_id": 126
+      },
+      {
+        "is_correct": false,
+        "alternative": "Bantuan ekonomi",
+        "id": 687,
+        "question_id": 126
+      }],
+    "created_at": {
+      "$date": 1401139997000
+    },
+    "question": "Pengakuan de jure dari suatu negara terhadap negara yang lain ditandai oleh ...",
+    "id": 126,
+    "id_google": 1235,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 3,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Meningkatkan kesejahteraan",
+      "id": 688,
+      "question_id": 127
+    },
+      {
+        "is_correct": false,
+        "alternative": "Menjamin keamanan",
+        "id": 689,
+        "question_id": 127
+      },
+      {
+        "is_correct": false,
+        "alternative": "Memelihara kekuasaan",
+        "id": 690,
+        "question_id": 127
+      },
+      {
+        "is_correct": true,
+        "alternative": "Mewujudkan ketertiban",
+        "id": 691,
+        "question_id": 127
+      }],
+    "created_at": {
+      "$date": 1401143066000
+    },
+    "question": "Dilihat dari segi tujuannya, negara kepolisian bertujuan ... ",
+    "id": 127,
+    "id_google": 1231,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 3,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Kesejahteraan bersama",
+      "id": 692,
+      "question_id": 128
+    },
+      {
+        "is_correct": false,
+        "alternative": "Kemakmuran rakyat",
+        "id": 693,
+        "question_id": 128
+      },
+      {
+        "is_correct": false,
+        "alternative": "Keadilan sosial",
+        "id": 694,
+        "question_id": 128
+      },
+      {
+        "is_correct": false,
+        "alternative": "Ketentraman masyarakat",
+        "id": 695,
+        "question_id": 128
+      },
+      {
+        "is_correct": true,
+        "alternative": "Kekuasaan negara ",
+        "id": 696,
+        "question_id": 128
+      }],
+    "created_at": {
+      "$date": 1401143347000
+    },
+    "question": "Corak negara yang menganut ideologi fasisme mengutamakan ... ",
+    "id": 128,
+    "id_google": 1229,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 3,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Kepala negaranya adalah seorang presiden",
+      "id": 697,
+      "question_id": 129
+    },
+      {
+        "is_correct": true,
+        "alternative": "Kekuasaan asli ada pada pemerintah pusat",
+        "id": 698,
+        "question_id": 129
+      },
+      {
+        "is_correct": false,
+        "alternative": "Warga negara mudah berpindah domisili",
+        "id": 699,
+        "question_id": 129
+      },
+      {
+        "is_correct": false,
+        "alternative": "Adanya konstitusi yang tertulis",
+        "id": 700,
+        "question_id": 129
+      }],
+    "created_at": {
+      "$date": 1401143471000
+    },
+    "question": "Ciri khas negara kesatuan adalah ...",
+    "id": 129,
+    "id_google": 1230,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 3,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Presiden dalam kekuasaan Dewan Perwakilan Rakyat",
+      "id": 701,
+      "question_id": 130
+    },
+      {
+        "is_correct": false,
+        "alternative": "Dewan Perwakilan Rakyat dalam kekuasaan presiden",
+        "id": 702,
+        "question_id": 130
+      },
+      {
+        "is_correct": false,
+        "alternative": "Presiden dalam kekuasaan Mahkamah Agung",
+        "id": 703,
+        "question_id": 130
+      },
+      {
+        "is_correct": false,
+        "alternative": "Mahkamah Agung dalamkekuasaan Presiden",
+        "id": 704,
+        "question_id": 130
+      },
+      {
+        "is_correct": false,
+        "alternative": "DPR dalam kekuasaan Mahkamah Agung",
+        "id": 705,
+        "question_id": 130
+      }],
+    "created_at": {
+      "$date": 1401143607000
+    },
+    "question": "Apabila didasarkan pada ajaran Trias Politika, yang dikenal dengan teori pemisahan kekuasaan negara, maka penetapan APBN menurut UUD 1945 merupakan campur tangan...",
+    "id": 130,
+    "id_google": 1027,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 3,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Pembentukan kabinet sangat demokratis",
+      "id": 706,
+      "question_id": 131
+    },
+      {
+        "is_correct": true,
+        "alternative": "Jalannya pemerintahan lebih setabil",
+        "id": 707,
+        "question_id": 131
+      },
+      {
+        "is_correct": false,
+        "alternative": "Para menteri bertanggung jawab secara kolektif ",
+        "id": 708,
+        "question_id": 131
+      },
+      {
+        "is_correct": false,
+        "alternative": "Para meneri dapat diganti sewaktu-waktu",
+        "id": 709,
+        "question_id": 131
+      }],
+    "created_at": {
+      "$date": 1401143642000
+    },
+    "question": "Jika dibandingkan dengan kabinet parlementer kelebihan kabinet presidentil adalah dalam hal...",
+    "id": 131,
+    "id_google": 1228,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 3,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Hati nurani",
+      "id": 710,
+      "question_id": 132
+    },
+      {
+        "is_correct": false,
+        "alternative": "Masyarakat",
+        "id": 711,
+        "question_id": 132
+      },
+      {
+        "is_correct": false,
+        "alternative": "Tuhan",
+        "id": 712,
+        "question_id": 132
+      },
+      {
+        "is_correct": false,
+        "alternative": "Lembaga sosial",
+        "id": 713,
+        "question_id": 132
+      }],
+    "created_at": {
+      "$date": 1401143677000
+    },
+    "question": "Dibandingkan dengan berbagai norma sosial lainnya, sanksi norma kesopanan bersumber dari ...",
+    "id": 132,
+    "id_google": 1227,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 3,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Pembunuhan berencana",
+      "id": 714,
+      "question_id": 133
+    },
+      {
+        "is_correct": false,
+        "alternative": "Pelanggaran hukum",
+        "id": 715,
+        "question_id": 133
+      },
+      {
+        "is_correct": false,
+        "alternative": "Hubungan antara daerah",
+        "id": 716,
+        "question_id": 133
+      },
+      {
+        "is_correct": false,
+        "alternative": "Penggelapan barang",
+        "id": 717,
+        "question_id": 133
+      },
+      {
+        "is_correct": true,
+        "alternative": "Melanggar perjanjian",
+        "id": 718,
+        "question_id": 133
+      }],
+    "created_at": {
+      "$date": 1401143825000
+    },
+    "question": "Berikut ini,hal yang termasuk dalam bidang hukum privat adalah ...",
+    "id": 133,
+    "id_google": 1225,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 3,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "8 Maret 1942",
+      "id": 719,
+      "question_id": 134
+    },
+      {
+        "is_correct": false,
+        "alternative": "08 September 1943",
+        "id": 720,
+        "question_id": 134
+      },
+      {
+        "is_correct": true,
+        "alternative": "14 Agustus 1945",
+        "id": 721,
+        "question_id": 134
+      },
+      {
+        "is_correct": false,
+        "alternative": "29 April 1945",
+        "id": 722,
+        "question_id": 134
+      },
+      {
+        "is_correct": false,
+        "alternative": "29 Mei 1945",
+        "id": 723,
+        "question_id": 134
+      }],
+    "created_at": {
+      "$date": 1401143998000
+    },
+    "question": "Untuk menarik hati rakyat Indonesia Jepang membentuk dan melantik badan Penyidik Usaha Persiapan kemerdekaan Indonesia pada tanggal ..",
+    "id": 134,
+    "id_google": 1226,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 3,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Dekrit Presiden",
+      "id": 724,
+      "question_id": 135
+    },
+      {
+        "is_correct": true,
+        "alternative": "Pembukaan UUD 1945",
+        "id": 725,
+        "question_id": 135
+      },
+      {
+        "is_correct": false,
+        "alternative": "Proklamasi Kemerdekaan",
+        "id": 726,
+        "question_id": 135
+      },
+      {
+        "is_correct": false,
+        "alternative": "Ketetapan MPR ",
+        "id": 727,
+        "question_id": 135
+      },
+      {
+        "is_correct": false,
+        "alternative": "Pancasila",
+        "id": 728,
+        "question_id": 135
+      }],
+    "created_at": {
+      "$date": 1401144285000
+    },
+    "question": "Norma pertama dalam tata hukum Indonesia adalah.....",
+    "id": 135,
+    "id_google": 1224,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 3,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Pancasila memberi motivasi perjuangan kemerdekaan",
+      "id": 729,
+      "question_id": 136
+    },
+      {
+        "is_correct": false,
+        "alternative": "Pancasila menjadi dasar perumusan Teks Proklamasi",
+        "id": 730,
+        "question_id": 136
+      },
+      {
+        "is_correct": false,
+        "alternative": "Teks Proklamasi dirumuskan bersamaan dengan Pancasila",
+        "id": 731,
+        "question_id": 136
+      },
+      {
+        "is_correct": true,
+        "alternative": "Proklamasi Kemerdekaan menjadi dasar berlakunya Pancasila",
+        "id": 732,
+        "question_id": 136
+      }],
+    "created_at": {
+      "$date": 1401144568000
+    },
+    "question": "Hubungan antara pancasila dan Prokolamasi Kemerdekaan adalah ...",
+    "id": 136,
+    "id_google": 1223,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 3,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "MPR",
+      "id": 733,
+      "question_id": 137
+    },
+      {
+        "is_correct": false,
+        "alternative": "Dewan Perwakilan Rakyat",
+        "id": 734,
+        "question_id": 137
+      },
+      {
+        "is_correct": true,
+        "alternative": "Mahkamah Agung",
+        "id": 735,
+        "question_id": 137
+      },
+      {
+        "is_correct": false,
+        "alternative": "Menteri Kehakiman",
+        "id": 736,
+        "question_id": 137
+      },
+      {
+        "is_correct": false,
+        "alternative": "Dewan Pertimbangan Agung",
+        "id": 737,
+        "question_id": 137
+      }],
+    "created_at": {
+      "$date": 1401144602000
+    },
+    "question": "Menurut Pasal 14 ayat (1) UUD 1945 hasil perubahan pertama, dalam hal memberi grasi dan rehabilitasi, Presiden perlu memperhatikan pertimbangan dari ....",
+    "id": 137,
+    "id_google": 1222,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 3,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Presiden dengan memperhatikan pertimbangan DPR",
+      "id": 7404,
+      "question_id": 139
+    },
+      {
+        "is_correct": false,
+        "alternative": "DPR dengan memperhatikan usul dari pemerinah",
+        "id": 7405,
+        "question_id": 139
+      },
+      {
+        "is_correct": false,
+        "alternative": "Presiden dengan memperhatikan pendapat DPD",
+        "id": 7401,
+        "question_id": 139
+      },
+      {
+        "is_correct": false,
+        "alternative": "DPR dengan meperhatikan pertimbangan DPD",
+        "id": 7402,
+        "question_id": 139
+      },
+      {
+        "is_correct": false,
+        "alternative": "Presiden dengan memperhatikan perimbangan DPD",
+        "id": 7403,
+        "question_id": 139
+      }],
+    "created_at": {
+      "$date": 1401145109000
+    },
+    "question": "Berdasarkan UUD 1945, anggota Badan Pemeriksa Keuangan dipilih oleh ....",
+    "id": 139,
+    "id_google": 1221,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 3,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Bertanya kepada Pemerintah",
+      "id": 741,
+      "question_id": 140
+    },
+      {
+        "is_correct": false,
+        "alternative": "Melakukan penyelidikan",
+        "id": 742,
+        "question_id": 140
+      },
+      {
+        "is_correct": false,
+        "alternative": "Melakukan perubahan terhadap RUU",
+        "id": 743,
+        "question_id": 140
+      },
+      {
+        "is_correct": false,
+        "alternative": "Mengawasi jalannya pemerintahan",
+        "id": 744,
+        "question_id": 140
+      },
+      {
+        "is_correct": false,
+        "alternative": "Ikut serta menetapkan APBN",
+        "id": 745,
+        "question_id": 140
+      }],
+    "created_at": {
+      "$date": 1401145262000
+    },
+    "question": "Anggota Dewan Perwakilan Rakyat menurut UUD 1945 mempunyai hak interpelasi, yakni hak untuk ....",
+    "id": 140,
+    "id_google": 1220,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 3,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Undang-undang",
+      "id": 746,
+      "question_id": 141
+    },
+      {
+        "is_correct": false,
+        "alternative": "Peraturan pemerintah ",
+        "id": 747,
+        "question_id": 141
+      },
+      {
+        "is_correct": false,
+        "alternative": "Peraturan derah",
+        "id": 748,
+        "question_id": 141
+      },
+      {
+        "is_correct": true,
+        "alternative": "Keputusan presiden",
+        "id": 749,
+        "question_id": 141
+      },
+      {
+        "is_correct": false,
+        "alternative": "Keputusan menteri",
+        "id": 750,
+        "question_id": 141
+      }],
+    "created_at": {
+      "$date": 1401145489000
+    },
+    "question": "Berdasarkan UUD 1945, Mahkamah Agung hanya mempunyai hak menguji formil terhadap peraturan perundang-undangan yang berupa ....",
+    "id": 141,
+    "id_google": 1213,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 3,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Memberhentikan ketua MPR",
+      "id": 751,
+      "question_id": 142
+    },
+      {
+        "is_correct": false,
+        "alternative": "Memberhentikan ketua DPR",
+        "id": 752,
+        "question_id": 142
+      },
+      {
+        "is_correct": false,
+        "alternative": "Memberhentikan presiden",
+        "id": 753,
+        "question_id": 142
+      },
+      {
+        "is_correct": false,
+        "alternative": "Membuat partai politik",
+        "id": 754,
+        "question_id": 142
+      },
+      {
+        "is_correct": false,
+        "alternative": "Mengubah undang-undang dasar",
+        "id": 755,
+        "question_id": 142
+      }],
+    "created_at": {
+      "$date": 1401145613000
+    },
+    "question": "Menurut Pasal 24 ayat (1) UUD 1945, Mahkamah Konstitusi anatar lain mempunyai kewenangan .....",
+    "id": 142,
+    "id_google": 1219,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 3,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Penugasan dari pemerintah kepada daerah untuk melaksanakan tugas tertentu",
+      "id": 756,
+      "question_id": 143
+    },
+      {
+        "is_correct": false,
+        "alternative": "Penyerahan kewenangan kepada derah untuk mengurus rumah tangganya sendiri",
+        "id": 757,
+        "question_id": 143
+      },
+      {
+        "is_correct": true,
+        "alternative": "Pendelegasian kewenangan dari pemerintah pusat kepada pemerintah daerah",
+        "id": 758,
+        "question_id": 143
+      },
+      {
+        "is_correct": false,
+        "alternative": "Pelimpahan tugas kepada daerah untuk mengurus dan melaksanakan pemerintahan",
+        "id": 759,
+        "question_id": 143
+      },
+      {
+        "is_correct": false,
+        "alternative": "Pembagian tugas pemerintahan antara pemerintah pusat dan pemerintah daerah",
+        "id": 760,
+        "question_id": 143
+      }],
+    "created_at": {
+      "$date": 1401145695000
+    },
+    "question": "Desentralisasi sebagai salah satu asas yang dianut dalampenyelenggaraan pemerintahan di daerah maknanya adalah ....",
+    "id": 143,
+    "id_google": 1218,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 3,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Industri dan perdagangan",
+      "id": 761,
+      "question_id": 144
+    },
+      {
+        "is_correct": false,
+        "alternative": "Penanaman modal",
+        "id": 762,
+        "question_id": 144
+      },
+      {
+        "is_correct": true,
+        "alternative": "Pemberdayaan sumber daya alam",
+        "id": 763,
+        "question_id": 144
+      },
+      {
+        "is_correct": false,
+        "alternative": "Pekerjaan umum",
+        "id": 764,
+        "question_id": 144
+      },
+      {
+        "is_correct": false,
+        "alternative": "Pendidikan dan kebudayaan",
+        "id": 765,
+        "question_id": 144
+      }],
+    "created_at": {
+      "$date": 1401147643000
+    },
+    "question": "Salah satu hal yang menjadi kewenangan pemerintah pusat menurut Undang- undang No.22 tahun 1999 tentang Otonomi Daerah adalah ...",
+    "id": 144,
+    "id_google": 1214,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 3,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Persamaan kedaulatan antara semua anggota",
+      "id": 766,
+      "question_id": 145
+    },
+      {
+        "is_correct": false,
+        "alternative": "Memenuhi kewajiban dengan itikad baik",
+        "id": 767,
+        "question_id": 145
+      },
+      {
+        "is_correct": false,
+        "alternative": "Menyelesaikan persengketaan dengan cara damai",
+        "id": 768,
+        "question_id": 145
+      },
+      {
+        "is_correct": false,
+        "alternative": "Menjauhi penggunaan ancaman dan kekerasan",
+        "id": 769,
+        "question_id": 145
+      },
+      {
+        "is_correct": true,
+        "alternative": "Mencampuri urusan suatu negara demi kepentingan besama",
+        "id": 770,
+        "question_id": 145
+      }],
+    "created_at": {
+      "$date": 1401147800000
+    },
+    "question": "Berikut ini merupakan asas-asas yang dianut PP, Kecuali ,,,,",
+    "id": 145,
+    "id_google": 1210,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 3,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Dewan Keamanan",
+      "id": 771,
+      "question_id": 146
+    },
+      {
+        "is_correct": false,
+        "alternative": "Majelis Umum",
+        "id": 772,
+        "question_id": 146
+      },
+      {
+        "is_correct": false,
+        "alternative": "Dewan Perwalian",
+        "id": 773,
+        "question_id": 146
+      },
+      {
+        "is_correct": false,
+        "alternative": "Sekretariat",
+        "id": 774,
+        "question_id": 146
+      },
+      {
+        "is_correct": false,
+        "alternative": "Dewan Ekonomi dan Sosial",
+        "id": 775,
+        "question_id": 146
+      }],
+    "created_at": {
+      "$date": 1401147897000
+    },
+    "question": "Organ utama PBB yang berfungsi membuat rekomendasi entang prinsip kerja sama internasional dalam rangka memelihara perdamaian dan keamanan internasional adalah ...",
+    "id": 146,
+    "id_google": 1217,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 4,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Letak geografis yang dipengaruhi angin musim",
+      "id": 776,
+      "question_id": 147
+    },
+      {
+        "is_correct": false,
+        "alternative": "Tedapat beberapa keseltanan dikedua tepi Selat Malaka",
+        "id": 777,
+        "question_id": 147
+      },
+      {
+        "is_correct": true,
+        "alternative": "Penggunaan bahasa yang sama",
+        "id": 778,
+        "question_id": 147
+      },
+      {
+        "is_correct": false,
+        "alternative": "Penggunaan mata uang yang sama",
+        "id": 779,
+        "question_id": 147
+      },
+      {
+        "is_correct": false,
+        "alternative": "Agama yang sama",
+        "id": 780,
+        "question_id": 147
+      }],
+    "created_at": {
+      "$date": 1401148041000
+    },
+    "question": "Dunia Melayu, yaitu Riau, malaka, dan daerah sekitarnya sangat beruntung dilihat dari sudut internasional karena....",
+    "id": 147,
+    "id_google": 1211,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 4,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Sulawesi Selatan",
+      "id": 781,
+      "question_id": 148
+    },
+      {
+        "is_correct": false,
+        "alternative": "Kalimantan Selatan",
+        "id": 782,
+        "question_id": 148
+      },
+      {
+        "is_correct": false,
+        "alternative": "Kalimantan Timur",
+        "id": 783,
+        "question_id": 148
+      },
+      {
+        "is_correct": false,
+        "alternative": "Jawa Timur",
+        "id": 784,
+        "question_id": 148
+      },
+      {
+        "is_correct": false,
+        "alternative": " Jawa Tengah",
+        "id": 785,
+        "question_id": 148
+      }],
+    "created_at": {
+      "$date": 1401148153000
+    },
+    "question": "Kedatangan bangsa-bangsa baik dari Asia Barat, Asia Selatan maupun Asia Timur ke Kepulauan Indonesia sejak abad X adalah karena antara lain lada yang dihasilkan di Sumatera dan Jawa Barat, juga di ....",
+    "id": 148,
+    "id_google": 1212,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 4,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Orang-orang Spanyol",
+      "id": 786,
+      "question_id": 149
+    },
+      {
+        "is_correct": true,
+        "alternative": "Orang-orang Portugis",
+        "id": 787,
+        "question_id": 149
+      },
+      {
+        "is_correct": false,
+        "alternative": "Orang-orang Perancis",
+        "id": 788,
+        "question_id": 149
+      },
+      {
+        "is_correct": false,
+        "alternative": "Orang-orang Italia",
+        "id": 789,
+        "question_id": 149
+      },
+      {
+        "is_correct": false,
+        "alternative": "Orang-orang Inggris",
+        "id": 790,
+        "question_id": 149
+      }],
+    "created_at": {
+      "$date": 1401148355000
+    },
+    "question": "rempah-rempah yang sulit diperoleh di Eropa pada abad ke-15, ke-16, dan ke-17 membuat orang-orang Eropa ingin membelinya sendiri dari tempat-tempat penghasilannya. Hal ini menimbulkan persaingan antara orang-orang Eropa sendiri antara lain yang terjadi di Banten antara orang-orang Belanda dan ....",
+    "id": 149,
+    "id_google": 1215,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 4,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Pedagang-pedagang Spanyol",
+      "id": 791,
+      "question_id": 150
+    },
+      {
+        "is_correct": false,
+        "alternative": "Para pedagang Cina",
+        "id": 792,
+        "question_id": 150
+      },
+      {
+        "is_correct": false,
+        "alternative": "Para perampok",
+        "id": 793,
+        "question_id": 150
+      },
+      {
+        "is_correct": true,
+        "alternative": "Persaingan antar pedagang Belanda sendiri",
+        "id": 794,
+        "question_id": 150
+      },
+      {
+        "is_correct": false,
+        "alternative": "Maslah-masalah yang muncul lebih terpadu",
+        "id": 795,
+        "question_id": 150
+      }],
+    "created_at": {
+      "$date": 1401148481000
+    },
+    "question": "Pembentukan Oost-Indische Compagnie pada tahun 1602 dimaksudkan agar dalam perdagangan rempah-rempah di Kepulauan Indonesia, pedagang-pedagang Belanda dapat menghadapi bersama...",
+    "id": 150,
+    "id_google": 1216,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 4,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Armada dengan tentara sewaan yang kuat",
+      "id": 796,
+      "question_id": 151
+    },
+      {
+        "is_correct": false,
+        "alternative": "Hak octrooi",
+        "id": 797,
+        "question_id": 151
+      },
+      {
+        "is_correct": false,
+        "alternative": "Keleluasaan mengekspor rempah-rempah ke pasar Eropa ",
+        "id": 798,
+        "question_id": 151
+      },
+      {
+        "is_correct": false,
+        "alternative": "Izin untuk meberlakukan Punale Sanctie",
+        "id": 799,
+        "question_id": 151
+      }],
+    "created_at": {
+      "$date": 1401148647000
+    },
+    "question": "Untuk melindungi perdagangan, VOC diberi ....",
+    "id": 151,
+    "id_google": 1208,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 4,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Hancurnya perdagangan rempah-rempah",
+      "id": 800,
+      "question_id": 152
+    },
+      {
+        "is_correct": true,
+        "alternative": "Munculnya perlawanan terhadap kekuasaan Belanda",
+        "id": 801,
+        "question_id": 152
+      },
+      {
+        "is_correct": false,
+        "alternative": "Pendidikan barat masuk ke Indonesia",
+        "id": 802,
+        "question_id": 152
+      },
+      {
+        "is_correct": false,
+        "alternative": "Berakhirnya pengaruh Portugis di Indonesia",
+        "id": 803,
+        "question_id": 152
+      }],
+    "created_at": {
+      "$date": 1401203303000
+    },
+    "question": "Jatuhnya kerajaan-kerajaan besar di Indonesia seperti Gowa, Mataram, Banten, dan Aceh yang berlangsung dari sekitar 1680 hingga 1750 ke tangan Belanda menandai awal dari...",
+    "id": 152,
+    "id_google": 1206,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 4,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Kerajaannya adalah kerajaan merdeka",
+      "id": 804,
+      "question_id": 153
+    },
+      {
+        "is_correct": false,
+        "alternative": "Kedudukannya sama dengan Belanda",
+        "id": 805,
+        "question_id": 153
+      },
+      {
+        "is_correct": false,
+        "alternative": "Belanda selalu memeras",
+        "id": 806,
+        "question_id": 153
+      },
+      {
+        "is_correct": true,
+        "alternative": "Belanda ingin menguasai secara mutlak",
+        "id": 807,
+        "question_id": 153
+      }],
+    "created_at": {
+      "$date": 1401223653000
+    },
+    "question": "Raja Bone, Arum Pone, menolak menyerahkan wilayah-wilayah kekuasaannya, setelah Inggris meninggalkan Indonesia pad tahun 1816, karena ia menganggap.....",
+    "id": 153,
+    "id_google": 1201,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 4,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Kerugian yang dialami karena banjir besar yang melanda Belanda yang berada di bawah permukaan laut",
+      "id": 808,
+      "question_id": 157
+    },
+      {
+        "is_correct": false,
+        "alternative": "Harus memberi sumbangan kepada perancis yang menjadi sekutu",
+        "id": 809,
+        "question_id": 157
+      },
+      {
+        "is_correct": false,
+        "alternative": "Perang Diponegor yang menelan biaya besar",
+        "id": 810,
+        "question_id": 157
+      },
+      {
+        "is_correct": true,
+        "alternative": "Keikutsertaannya dalam perang yang terjadi di Eropa",
+        "id": 811,
+        "question_id": 157
+      }],
+    "created_at": {
+      "$date": 1401224345000
+    },
+    "question": "Pada tahun 1830 pemerintah Belanda menghadapi kekurangan dana untuk menjalankan kegiatannya di Hindia Belanda karena....",
+    "id": 157,
+    "id_google": 1203,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 4,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Kaum intlektual Belanda",
+      "id": 8120,
+      "question_id": 158
+    },
+      {
+        "is_correct": true,
+        "alternative": "Kaum intlektual Indonesia",
+        "id": 8121,
+        "question_id": 158
+      },
+      {
+        "is_correct": false,
+        "alternative": "Para ulama",
+        "id": 8122,
+        "question_id": 158
+      },
+      {
+        "is_correct": false,
+        "alternative": "Para pedagang",
+        "id": 8123,
+        "question_id": 158
+      },
+      {
+        "is_correct": false,
+        "alternative": "Para musyafir",
+        "id": 8134,
+        "question_id": 158
+      }],
+    "created_at": {
+      "$date": 1401224520000
+    },
+    "question": "Munculnya kesadaran berbangsa di kalangan penduduk Indonesia didorong mula-mula oleh ...",
+    "id": 158,
+    "id_google": 1200,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 4,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Memberi penghargaan kepada tradisi etnik",
+      "id": 8141,
+      "question_id": 159
+    },
+      {
+        "is_correct": false,
+        "alternative": "Saling menghargai di kalangan suku-suku bangsa",
+        "id": 8142,
+        "question_id": 159
+      },
+      {
+        "is_correct": false,
+        "alternative": "Kesadaran akan kemampuan bangsa sendiri",
+        "id": 8143,
+        "question_id": 159
+      },
+      {
+        "is_correct": false,
+        "alternative": "Kesadaran akan kebhinekaan",
+        "id": 8144,
+        "question_id": 159
+      },
+      {
+        "is_correct": true,
+        "alternative": "Meningkatkan kesadaran berbangsa",
+        "id": 8155,
+        "question_id": 159
+      }],
+    "created_at": {
+      "$date": 1401224622000
+    },
+    "question": "Salah satu sumbangan yang diberikan Sumpah Pemuda adalah......",
+    "id": 159,
+    "id_google": 1199,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 4,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Perkebunan-perkebunan",
+      "id": 816,
+      "question_id": 160
+    },
+      {
+        "is_correct": false,
+        "alternative": "Tanaga manusia",
+        "id": 817,
+        "question_id": 160
+      },
+      {
+        "is_correct": true,
+        "alternative": "Hasil tambang",
+        "id": 818,
+        "question_id": 160
+      },
+      {
+        "is_correct": false,
+        "alternative": "Hasil laut",
+        "id": 819,
+        "question_id": 160
+      },
+      {
+        "is_correct": false,
+        "alternative": "Hasil pertanian",
+        "id": 820,
+        "question_id": 160
+      }],
+    "created_at": {
+      "$date": 1401224806000
+    },
+    "question": "Jepang pada dasawasa 20 dan 30 abad ke-20 sudah mempunyai perhatian sangat besar terhadap Hindia Belanda karena menganggap potensi yang dimiliki wilayah ini sangat penting.Potensi-potensi itu antara lain adalah ...",
+    "id": 160,
+    "id_google": 1198,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 4,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Kami Kase",
+      "id": 821,
+      "question_id": 161
+    },
+      {
+        "is_correct": false,
+        "alternative": "Angkatan Udara",
+        "id": 822,
+        "question_id": 161
+      },
+      {
+        "is_correct": false,
+        "alternative": "Angkatan Laut",
+        "id": 823,
+        "question_id": 161
+      },
+      {
+        "is_correct": true,
+        "alternative": "Angkatan Darat ",
+        "id": 824,
+        "question_id": 161
+      }],
+    "created_at": {
+      "$date": 1401224976000
+    },
+    "question": "Indonesia ternyata bukan wilayah kecil bagi yentara pendudukan Jepang pada waktu Perang Dunia II. Oleh sebab itu, wilayah ini dibagi atas dua bagian untuk diperintah, yaitu bagian timur dan bagian barat, Bagian barat Indonesia dikuasai oleh ..... ",
+    "id": 161,
+    "id_google": 1182,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 4,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "KNIP",
+      "id": 825,
+      "question_id": 162
+    },
+      {
+        "is_correct": false,
+        "alternative": "KNPI",
+        "id": 826,
+        "question_id": 162
+      },
+      {
+        "is_correct": false,
+        "alternative": "KNI",
+        "id": 827,
+        "question_id": 162
+      },
+      {
+        "is_correct": false,
+        "alternative": "KNIP",
+        "id": 828,
+        "question_id": 162
+      },
+      {
+        "is_correct": false,
+        "alternative": "KNII",
+        "id": 829,
+        "question_id": 162
+      }],
+    "created_at": {
+      "$date": 1401225065000
+    },
+    "question": "Untuk mempertahankan kedaulatan Republik Indonesia pada tanggal 23 Agustus 1945 Presiden Soekarno mengumumkan berdirinya tiga abadan baru, yaitu ..",
+    "id": 162,
+    "id_google": 1197,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 4,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Hindia Belanda dengan beberapa perubahan",
+      "id": 831,
+      "question_id": 163
+    },
+      {
+        "is_correct": false,
+        "alternative": "Negara Indonesia Timur dengan beberapa perubahan",
+        "id": 832,
+        "question_id": 163
+      },
+      {
+        "is_correct": false,
+        "alternative": "1945 yang disempurnakan",
+        "id": 833,
+        "question_id": 163
+      },
+      {
+        "is_correct": false,
+        "alternative": "RIS dengan beberapa perubahan",
+        "id": 834,
+        "question_id": 163
+      }],
+    "created_at": {
+      "$date": 1401225210000
+    },
+    "question": "Setelah Indonesia merdeka dan memeperoleh pengakuan internasional, ternyata masalah-masalah yang dihadapi belum berakhir, terutama masalah konstitusi. Pada tahun 1950, setelah terbentuk negara kesatuan, UUD Sementara yag digunakan pada hakikatnya merupakan UUD ...",
+    "id": 163,
+    "id_google": 1180,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 4,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Para anggota tidak ahli",
+      "id": 835,
+      "question_id": 164
+    },
+      {
+        "is_correct": false,
+        "alternative": "Terlalu banyak partai",
+        "id": 836,
+        "question_id": 164
+      },
+      {
+        "is_correct": false,
+        "alternative": "Tidak ada batas waktu",
+        "id": 837,
+        "question_id": 164
+      },
+      {
+        "is_correct": false,
+        "alternative": "Partai-partai kecil tidak dapat bersuara",
+        "id": 838,
+        "question_id": 164
+      }],
+    "created_at": {
+      "$date": 1401225312000
+    },
+    "question": "Badan yang diharpakan dapat membuat konstitusi baru setelah pemilihan umum pertama adalah konstituant. Namun, badan ini ternyata gagal, sehinga UUD Sementara tetap diberlakukan sampai Presiden Soekarno mengeluarkan Dekrit 5 Juli 1959. Masalah yang dihadapi konstituante adalah ..",
+    "id": 164,
+    "id_google": 1181,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 4,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Mengadakan mutasi",
+      "id": 839,
+      "question_id": 165
+    },
+      {
+        "is_correct": false,
+        "alternative": "Mengurangi jumlah partai",
+        "id": 840,
+        "question_id": 165
+      },
+      {
+        "is_correct": true,
+        "alternative": "Melarang kegiaan politi",
+        "id": 841,
+        "question_id": 165
+      },
+      {
+        "is_correct": false,
+        "alternative": "Melarang partai sosialis Indonesia",
+        "id": 842,
+        "question_id": 165
+      }],
+    "created_at": {
+      "$date": 1401225338000
+    },
+    "question": "Dampak kegagalan konstituante dan pemberontakan-pemberontakan di beberapa daerah Indonesia membuat Letnan Jenderal Nasution mengeluarkan peraturan tanggal 3 Juni 1959 yang ....",
+    "id": 165,
+    "id_google": 1191,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 4,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "The right to be free",
+      "id": 843,
+      "question_id": 166
+    },
+      {
+        "is_correct": false,
+        "alternative": "The right of self determination",
+        "id": 844,
+        "question_id": 166
+      },
+      {
+        "is_correct": false,
+        "alternative": "Human rights",
+        "id": 845,
+        "question_id": 166
+      },
+      {
+        "is_correct": false,
+        "alternative": "Good neighbour policy",
+        "id": 846,
+        "question_id": 166
+      }],
+    "created_at": {
+      "$date": 1401225448000
+    },
+    "question": "Kabinet Ali Sastroamidjojo adalah kabinet yang menonjol dalam ofensif diplomasi. Ia mengadakan kerjasama dengan negara-negara asing berdasarkan prinsip....",
+    "id": 166,
+    "id_google": 1173,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 4,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Perlombaan persenjataan",
+      "id": 847,
+      "question_id": 167
+    },
+      {
+        "is_correct": false,
+        "alternative": "Perang ideologi",
+        "id": 848,
+        "question_id": 167
+      },
+      {
+        "is_correct": false,
+        "alternative": "Persaingan ekonomi global ",
+        "id": 849,
+        "question_id": 167
+      },
+      {
+        "is_correct": false,
+        "alternative": "Ofensif politik",
+        "id": 850,
+        "question_id": 167
+      }],
+    "created_at": {
+      "$date": 1401225699000
+    },
+    "question": "Indonesa menjadi anggota negara-negara nonblok karena i ngin netral dalam percaturan dua negara adikuasa, Amerika Serikat dan Rusia. Kedua negara itu setelah Perang Dunia II terlibat dalam ....",
+    "id": 167,
+    "id_google": 1175,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 4,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Dipengaruhi oleh IMF dan WHO",
+      "id": 8511,
+      "question_id": 168
+    },
+      {
+        "is_correct": false,
+        "alternative": "Memberi janji-janji kosong untuk menyengsarakan rakyat",
+        "id": 8512,
+        "question_id": 168
+      },
+      {
+        "is_correct": true,
+        "alternative": "Membawa krisis ekonomi bagi RI",
+        "id": 8513,
+        "question_id": 168
+      },
+      {
+        "is_correct": false,
+        "alternative": "Tidak mampu lagi karena usia",
+        "id": 8514,
+        "question_id": 168
+      },
+      {
+        "is_correct": false,
+        "alternative": "Mempengaruhi tentara untuk melindungi kepentingannya",
+        "id": 8525,
+        "question_id": 168
+      }],
+    "created_at": {
+      "$date": 1401225750000
+    },
+    "question": "Pada dekade terakhir abad ke-20 Indonesia mengalami beberapa kali pergantian kepala negara. Kepala Negara pertama-tama ditumbangkan dianggap telah ....",
+    "id": 168,
+    "id_google": 1196,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 4,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Sinetron",
+      "id": 853,
+      "question_id": 169
+    },
+      {
+        "is_correct": true,
+        "alternative": "Iklan dalam media elektronik",
+        "id": 854,
+        "question_id": 169
+      },
+      {
+        "is_correct": false,
+        "alternative": "Penawaran barang mewah",
+        "id": 855,
+        "question_id": 169
+      },
+      {
+        "is_correct": false,
+        "alternative": "Film",
+        "id": 856,
+        "question_id": 169
+      }],
+    "created_at": {
+      "$date": 1401225802000
+    },
+    "question": "Kemajuan komunikasi yang canggih sebagai hasil kemajuan iptek telah meningkatkan konsumerisme melalui ...",
+    "id": 169,
+    "id_google": 1185,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Pendidikan yang terdiri dari prasekolah, SD, dan SLTP",
+      "id": 857,
+      "question_id": 170
+    },
+      {
+        "is_correct": false,
+        "alternative": "Pendidikan tingkat SLTP 3 tahun yang dihapus dan diintegrasikan menjadi SD 9 tahun",
+        "id": 858,
+        "question_id": 170
+      },
+      {
+        "is_correct": false,
+        "alternative": "Pendidikan tingkat SD 6 tahun dan SLTP 3 tahun",
+        "id": 859,
+        "question_id": 170
+      },
+      {
+        "is_correct": false,
+        "alternative": "Pendidikan pada tingkat SD yang diperpanjang menjadi 9 tahun ",
+        "id": 860,
+        "question_id": 170
+      }],
+    "created_at": {
+      "$date": 1401225871000
+    },
+    "question": "Pemerintah telah menetapkan kebijakan wajib belajar pendidikan dasar 9 tahun. Yang dimaksud pendidikan dasar 9 tahun adalah .....",
+    "id": 170,
+    "id_google": 1195,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": " ",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Formal dan informal",
+      "id": 865,
+      "question_id": 171
+    },
+      {
+        "is_correct": false,
+        "alternative": "Sekolah dan luar sekolah",
+        "id": 866,
+        "question_id": 171
+      },
+      {
+        "is_correct": false,
+        "alternative": "Umum dan kejuruan",
+        "id": 867,
+        "question_id": 171
+      },
+      {
+        "is_correct": false,
+        "alternative": "Dasar, menengah, dan tinggi",
+        "id": 868,
+        "question_id": 171
+      }],
+    "created_at": {
+      "$date": 1401225973000
+    },
+    "question": "Menurut Undang-undang Sistem Pendidikan Nasional, penyelenggaraan pendidikan dilaksanakan melalui jalur dan jenjang yang tersediYang dimaksud jalur pendidikan adalah jalur pendidikan ....",
+    "id": 171,
+    "id_google": 118,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Komisi pemilihan umum ",
+      "id": 869,
+      "question_id": 172
+    },
+      {
+        "is_correct": false,
+        "alternative": "Lembaga pemilihan umum",
+        "id": 870,
+        "question_id": 172
+      },
+      {
+        "is_correct": false,
+        "alternative": "Badan pemilihan umum",
+        "id": 871,
+        "question_id": 172
+      },
+      {
+        "is_correct": false,
+        "alternative": "Biro pemilihan umum",
+        "id": 872,
+        "question_id": 172
+      }],
+    "created_at": {
+      "$date": 1401226071000
+    },
+    "question": "GBHN 199-2004 telah mengamanatkan terselengaranya pemilu secara lebih demokratis pada tahun 2004 yang dilaksanakan oleh sebuah badan penyelenggara pemilu yang independen dan nonpartisan, yaitu....",
+    "id": 172,
+    "id_google": 1193,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Presiden dan DPR tidak dapat saling menjatuhkan",
+      "id": 873,
+      "question_id": 173
+    },
+      {
+        "is_correct": false,
+        "alternative": "Presiden dapat membubarkan DPR",
+        "id": 874,
+        "question_id": 173
+      },
+      {
+        "is_correct": false,
+        "alternative": "Presiden dapat menganti anggota DPR",
+        "id": 875,
+        "question_id": 173
+      },
+      {
+        "is_correct": false,
+        "alternative": "Presiden dapat diberhentikan oleh DPR",
+        "id": 876,
+        "question_id": 173
+      }],
+    "created_at": {
+      "$date": 1401226156000
+    },
+    "question": "Sistem pemerintahan Presidential mengatur hubungan antara presiden dengan DPR, yaitu ....",
+    "id": 173,
+    "id_google": 1189,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Terhadap yang lemah",
+      "id": 877,
+      "question_id": 174
+    },
+      {
+        "is_correct": false,
+        "alternative": "Terhadap peningkatan ekspor",
+        "id": 878,
+        "question_id": 174
+      },
+      {
+        "is_correct": false,
+        "alternative": "Terhadap tenaga wanita ",
+        "id": 879,
+        "question_id": 174
+      },
+      {
+        "is_correct": false,
+        "alternative": "Menghadapi globalisasi",
+        "id": 880,
+        "question_id": 174
+      }],
+    "created_at": {
+      "$date": 1401226320000
+    },
+    "question": "Ciri utama sistem ekonomi kerakyatan adalah penegakan prinsip keadilan dan demokrasi disertai kepedulian ...",
+    "id": 174,
+    "id_google": 1186,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Memperbaiki sektor industri",
+      "id": 881,
+      "question_id": 175
+    },
+      {
+        "is_correct": true,
+        "alternative": "Memperluas kesempatan kerja",
+        "id": 882,
+        "question_id": 175
+      },
+      {
+        "is_correct": false,
+        "alternative": "Memperluas pendidikan",
+        "id": 883,
+        "question_id": 175
+      },
+      {
+        "is_correct": false,
+        "alternative": "Memanfaatkan sumber daya alam",
+        "id": 884,
+        "question_id": 175
+      }],
+    "created_at": {
+      "$date": 1401226415000
+    },
+    "question": "Untuk menanggulangi banyaknya tenaga kerja yang menganggur dan setengah menganggur, salah satu jalan keluarnya ialah dengan ....",
+    "id": 175,
+    "id_google": 1177,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Pemisahan kekuasaan secar tegas",
+      "id": 885,
+      "question_id": 176
+    },
+      {
+        "is_correct": false,
+        "alternative": "Pengawasan yang ketat",
+        "id": 886,
+        "question_id": 176
+      },
+      {
+        "is_correct": false,
+        "alternative": "Kebebasan pers",
+        "id": 887,
+        "question_id": 176
+      },
+      {
+        "is_correct": false,
+        "alternative": "Kemauan pimpinan nasional",
+        "id": 888,
+        "question_id": 176
+      }],
+    "created_at": {
+      "$date": 1401226468000
+    },
+    "question": "Sasaran perbaikan struktur politik yang demokratis pada intinya ialah adanya keseimbangan, adanya penigkatan kinerja lembaga-lembaga negara, serta adanya....",
+    "id": 176,
+    "id_google": 1187,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Zona perairan bebas",
+      "id": 889,
+      "question_id": 177
+    },
+      {
+        "is_correct": false,
+        "alternative": "Perjanjian tentang perbatasan negara",
+        "id": 890,
+        "question_id": 177
+      },
+      {
+        "is_correct": true,
+        "alternative": "Perjanjian ekstradisi",
+        "id": 891,
+        "question_id": 177
+      },
+      {
+        "is_correct": false,
+        "alternative": "Tugas interpol",
+        "id": 892,
+        "question_id": 177
+      }],
+    "created_at": {
+      "$date": 1401227763000
+    },
+    "question": "Indonesia perlu membina kerjasama internasional dalam upaya memberantas kejahatan lintas batas. Hal itu dapat dilakukan melalui perluasan ....",
+    "id": 177,
+    "id_google": 1169,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Jujur dan adil",
+      "id": 893,
+      "question_id": 178
+    },
+      {
+        "is_correct": false,
+        "alternative": "Kebesamaan",
+        "id": 894,
+        "question_id": 178
+      },
+      {
+        "is_correct": false,
+        "alternative": "Semua untuk semua",
+        "id": 895,
+        "question_id": 178
+      },
+      {
+        "is_correct": false,
+        "alternative": "Efektif dan efisien",
+        "id": 896,
+        "question_id": 178
+      }],
+    "created_at": {
+      "$date": 1401227835000
+    },
+    "question": "Pemilihan umum yang dilaksanakan di Indonesia selama Orde Baru memiliki asas langsung, umum, bebas dan rahasia, sedangkan pada masa reformasi (Pemilu 1999) termasuk juga asas....",
+    "id": 178,
+    "id_google": 1167,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "TK dan SD",
+      "id": 897,
+      "question_id": 179
+    },
+      {
+        "is_correct": false,
+        "alternative": "SD dan SMP",
+        "id": 898,
+        "question_id": 179
+      },
+      {
+        "is_correct": false,
+        "alternative": "SD, SLTP, MI dan MTs",
+        "id": 899,
+        "question_id": 179
+      },
+      {
+        "is_correct": true,
+        "alternative": "SD, SMP, dan SMU",
+        "id": 900,
+        "question_id": 179
+      }],
+    "created_at": {
+      "$date": 1401227904000
+    },
+    "question": "Pendidikan dasar berbeda degan sekolah dasar karena pendidikan dasar mencakup ...",
+    "id": 179,
+    "id_google": 1166,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Pendidikan dasar dan menengah",
+      "id": 901,
+      "question_id": 180
+    },
+      {
+        "is_correct": false,
+        "alternative": "Prasekolah dan pendidikan dasar",
+        "id": 902,
+        "question_id": 180
+      },
+      {
+        "is_correct": false,
+        "alternative": "Pendidikan tinggi",
+        "id": 903,
+        "question_id": 180
+      },
+      {
+        "is_correct": false,
+        "alternative": "Pendidikan menengah dan tinggi",
+        "id": 904,
+        "question_id": 180
+      }],
+    "created_at": {
+      "$date": 1401227982000
+    },
+    "question": "Konsep school/community based management yang mulai dilaksanakan di Indonesia sekarang ini adalah manajemen pendidikan yang diprogramkan untuk....",
+    "id": 180,
+    "id_google": 1179,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Belum mampu mendapatkan pekerjaan",
+      "id": 905,
+      "question_id": 181
+    },
+      {
+        "is_correct": true,
+        "alternative": "Buta aksara latin dan angka",
+        "id": 906,
+        "question_id": 181
+      },
+      {
+        "is_correct": false,
+        "alternative": "Buta pengetahuan dasar",
+        "id": 907,
+        "question_id": 181
+      },
+      {
+        "is_correct": false,
+        "alternative": "Tergolong warga negara tidak mandiri",
+        "id": 908,
+        "question_id": 181
+      }],
+    "created_at": {
+      "$date": 1401228088000
+    },
+    "question": "Pendidikan luar sekolah (PLS) sangat penting diselenggarakan di Indonesia terutama berkenaan dengan banyaknya warga negara yang berusia 10-44 tahun masih ....",
+    "id": 181,
+    "id_google": 1178,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Letak yang strategis",
+      "id": 909,
+      "question_id": 182
+    },
+      {
+        "is_correct": false,
+        "alternative": "Banyak pulau",
+        "id": 910,
+        "question_id": 182
+      },
+      {
+        "is_correct": true,
+        "alternative": "Alam/pesona alam",
+        "id": 911,
+        "question_id": 182
+      },
+      {
+        "is_correct": false,
+        "alternative": "Keaslian budaya",
+        "id": 912,
+        "question_id": 182
+      }],
+    "created_at": {
+      "$date": 1401298339000
+    },
+    "question": "Pada dasarnya Indonesia adalah salah satu tujuan wisatwan mancanegara karena Indonesia memiliki selain sumber daya keragaman budaya dan seni juga memiliki ... ",
+    "id": 182,
+    "id_google": 1171,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Badan konsulasi desa",
+      "id": 913,
+      "question_id": 183
+    },
+      {
+        "is_correct": true,
+        "alternative": "Badan perwakilan desa",
+        "id": 914,
+        "question_id": 183
+      },
+      {
+        "is_correct": false,
+        "alternative": "Badan permusyawaratan desa",
+        "id": 915,
+        "question_id": 183
+      },
+      {
+        "is_correct": false,
+        "alternative": "Badan rembug desa",
+        "id": 916,
+        "question_id": 183
+      }],
+    "created_at": {
+      "$date": 1401298384000
+    },
+    "question": "Berdasarkan UU tentang Pemerintahan Derah (UU No.22 tahun 1999), pemerintahan Derah yang terkecil adalah desa, pemerintahan desa terdiri atas pemerinahan desa dan ...",
+    "id": 183,
+    "id_google": 1172,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Desentralisasi",
+      "id": 917,
+      "question_id": 184
+    },
+      {
+        "is_correct": false,
+        "alternative": "Dekonsentrasi",
+        "id": 918,
+        "question_id": 184
+      },
+      {
+        "is_correct": false,
+        "alternative": "Sentralisasi",
+        "id": 919,
+        "question_id": 184
+      },
+      {
+        "is_correct": false,
+        "alternative": "Medebewin",
+        "id": 920,
+        "question_id": 184
+      }],
+    "created_at": {
+      "$date": 1401298462000
+    },
+    "question": "Penyelenggaraan pemerintah dengan otonomi berdasarkan pada asas..",
+    "id": 184,
+    "id_google": 1188,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Pusat pemerintahan negara",
+      "id": 921,
+      "question_id": 185
+    },
+      {
+        "is_correct": false,
+        "alternative": "Pusat industri tinggi",
+        "id": 922,
+        "question_id": 185
+      },
+      {
+        "is_correct": false,
+        "alternative": "Kota yang paling tua",
+        "id": 923,
+        "question_id": 185
+      },
+      {
+        "is_correct": false,
+        "alternative": "Daerah tujuan wisata",
+        "id": 924,
+        "question_id": 185
+      }],
+    "created_at": {
+      "$date": 1401304983000
+    },
+    "question": "Jakarta merupakan suatu Daerah Khusus Ibu Kota dengan penataan pemerintahannya secara khusus karena memiliki kekhususan, antara lain sebagai ....",
+    "id": 185,
+    "id_google": 1174,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Manusia",
+      "id": 925,
+      "question_id": 187
+    },
+      {
+        "is_correct": false,
+        "alternative": "Teknologi",
+        "id": 926,
+        "question_id": 187
+      },
+      {
+        "is_correct": false,
+        "alternative": "Generasi muda",
+        "id": 927,
+        "question_id": 187
+      },
+      {
+        "is_correct": false,
+        "alternative": "Perempuan",
+        "id": 928,
+        "question_id": 187
+      }],
+    "created_at": {
+      "$date": 1401305100000
+    },
+    "question": "Indonesia kaya akan sumber daya alam apabila dibandingkan dengan yang dimiliki oleh Jepang, tetapi kita kalah dengan Jepang dalam hal kualitas sumber daya ....",
+    "id": 187,
+    "id_google": 1176,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Permintaan pabrik kertas",
+      "id": 929,
+      "question_id": 188
+    },
+      {
+        "is_correct": true,
+        "alternative": "Kebakaran hutan",
+        "id": 930,
+        "question_id": 188
+      },
+      {
+        "is_correct": false,
+        "alternative": "Meningkatnya industri tripleks",
+        "id": 931,
+        "question_id": 188
+      },
+      {
+        "is_correct": false,
+        "alternative": "Terjadinya penyelundupan",
+        "id": 932,
+        "question_id": 188
+      }],
+    "created_at": {
+      "$date": 1401305817000
+    },
+    "question": "Hutan Indonesia dikhawatirkan akan semakin mengalami kerusakan parah terutama karena ulah pemegang HPH, penebangan liar, dan karena ...",
+    "id": 188,
+    "id_google": 1168,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Sosial kemasyarakatan",
+      "id": 933,
+      "question_id": 189
+    },
+      {
+        "is_correct": false,
+        "alternative": "Menjaga hukum dan keadilan",
+        "id": 934,
+        "question_id": 189
+      },
+      {
+        "is_correct": true,
+        "alternative": "Keamanan dan ketertiban masyarakat",
+        "id": 935,
+        "question_id": 189
+      },
+      {
+        "is_correct": false,
+        "alternative": "Pengendalian mumum",
+        "id": 936,
+        "question_id": 189
+      }],
+    "created_at": {
+      "$date": 1401306073000
+    },
+    "question": "Sistem pertahanan dan keamanan Indonesia mengalami perubahan substansial, yakni TNI sebagai kekuatan pertahanan negara, sedangkan Polri sebagai kekuatan dengan fungsi....",
+    "id": 189,
+    "id_google": 1165,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Muatan lokal",
+      "id": 937,
+      "question_id": 193
+    },
+      {
+        "is_correct": false,
+        "alternative": "Kurikulum daerah",
+        "id": 938,
+        "question_id": 193
+      },
+      {
+        "is_correct": false,
+        "alternative": "Kurikulum terpadu",
+        "id": 939,
+        "question_id": 193
+      },
+      {
+        "is_correct": false,
+        "alternative": "Unsur daerah",
+        "id": 940,
+        "question_id": 193
+      },
+      {
+        "is_correct": false,
+        "alternative": "Unsur Suku",
+        "id": 941,
+        "question_id": 193
+      }],
+    "created_at": {
+      "$date": 1401380193000
+    },
+    "question": "Kurikulum sekolah selain yang berlaku secara nasional terdapat pula kurikulum yang disesuaikan dengan tuntutan dan kondisi daerah yang disebut dengan...",
+    "id": 193,
+    "id_google": 1163,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Pengawasan pemerintah dalam pengendalian mutu pendidikan",
+      "id": 942,
+      "question_id": 194
+    },
+      {
+        "is_correct": true,
+        "alternative": "Lembaga pembantu Presiden dalam pembangunan bidang pendidikan",
+        "id": 943,
+        "question_id": 194
+      },
+      {
+        "is_correct": false,
+        "alternative": "Lembaga non pemerintah yang bergerak dalam bidang pendidikan",
+        "id": 944,
+        "question_id": 194
+      },
+      {
+        "is_correct": false,
+        "alternative": "Institusi non departmental dalam perumusan kebijakan pendidikan",
+        "id": 945,
+        "question_id": 194
+      },
+      {
+        "is_correct": false,
+        "alternative": "Lembaga swasta yang bergerak di bidang kependidikan non formal",
+        "id": 946,
+        "question_id": 194
+      }],
+    "created_at": {
+      "$date": 1401381200000
+    },
+    "question": "Badan Pertimbangan Pendidikan Nasional (BPPN) dibentuk dan anggotanya diangkat oleh Presiden sebagai perwujudan...",
+    "id": 194,
+    "id_google": 1161,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Upaya pengendalian mutu pendidikan",
+      "id": 947,
+      "question_id": 195
+    },
+      {
+        "is_correct": false,
+        "alternative": "Meningkatkan angka partisipasi pendidikan",
+        "id": 948,
+        "question_id": 195
+      },
+      {
+        "is_correct": false,
+        "alternative": "Mengurangi biaya operasional pendidikan",
+        "id": 949,
+        "question_id": 195
+      },
+      {
+        "is_correct": false,
+        "alternative": "Memeratakan tanaga dan sarana kependidikan",
+        "id": 950,
+        "question_id": 195
+      },
+      {
+        "is_correct": false,
+        "alternative": "Menambah jumlah tenaga pendidik",
+        "id": 951,
+        "question_id": 195
+      }],
+    "created_at": {
+      "$date": 1401381531000
+    },
+    "question": "Penyelenggaraan UJIAN NASIONAL pada tingkat SD, SLTP, dan SLTA memberi kontribusi positif kepada pembangunan sector pendidikan terutama dalam...",
+    "id": 195,
+    "id_google": 1159,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Akademi",
+      "id": 952,
+      "question_id": 196
+    },
+      {
+        "is_correct": false,
+        "alternative": "Politeknik",
+        "id": 953,
+        "question_id": 196
+      },
+      {
+        "is_correct": false,
+        "alternative": "Sekolah tinggi",
+        "id": 954,
+        "question_id": 196
+      },
+      {
+        "is_correct": true,
+        "alternative": "Diploma 1",
+        "id": 955,
+        "question_id": 196
+      }],
+    "created_at": {
+      "$date": 1401383616000
+    },
+    "question": "Berikut ini bentuk-bentuk perguruan tinggi menurut Undang-undang No. 2 tahun 1989 tentang Sistem Pendidikan Nasional, kecuali...",
+    "id": 196,
+    "id_google": 1158,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Memacu perkembangan perguruan tinggi yang bersangkutan",
+      "id": 956,
+      "question_id": 197
+    },
+      {
+        "is_correct": false,
+        "alternative": "Melepaskan beban pemerintah dalam pendanaan operasional",
+        "id": 957,
+        "question_id": 197
+      },
+      {
+        "is_correct": false,
+        "alternative": "Memacu pertumbuhan ekonomi dan kemakmuran rakyat",
+        "id": 958,
+        "question_id": 197
+      },
+      {
+        "is_correct": false,
+        "alternative": "Meningkatkan peran swasta dalam penyelenggaraan pendidikan",
+        "id": 959,
+        "question_id": 197
+      },
+      {
+        "is_correct": false,
+        "alternative": "Mengurangi peran pihak asing dalam dunia kependidikan",
+        "id": 960,
+        "question_id": 197
+      }],
+    "created_at": {
+      "$date": 1401383904000
+    },
+    "question": "Berikut ini nilai-nilai positif dari upaya Pemerintah untuk memberi otonomi yang lebih luas kepada perguruan tinggi negeri terutama untuk...",
+    "id": 197,
+    "id_google": 1157,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Mendukung program wajib belajar 9 tahun",
+      "id": 961,
+      "question_id": 198
+    },
+      {
+        "is_correct": false,
+        "alternative": "Meningkatkan kecerdasan masyarakat",
+        "id": 962,
+        "question_id": 198
+      },
+      {
+        "is_correct": true,
+        "alternative": "Memberantas buta pengetahuan dasar ",
+        "id": 963,
+        "question_id": 198
+      },
+      {
+        "is_correct": false,
+        "alternative": "Memberikan bekal keterampilan",
+        "id": 964,
+        "question_id": 198
+      },
+      {
+        "is_correct": false,
+        "alternative": "Memberikan Modal usaha",
+        "id": 965,
+        "question_id": 198
+      }],
+    "created_at": {
+      "$date": 1401385723000
+    },
+    "question": "Pelaksanaan program pendidikan Paket A dan Paket B terutama dimaksudkan dalam rangka...",
+    "id": 198,
+    "id_google": 1154,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Meningkatkan rasa persaudaraan",
+      "id": 966,
+      "question_id": 199
+    },
+      {
+        "is_correct": false,
+        "alternative": "Menumbuhkan saling pengertian",
+        "id": 967,
+        "question_id": 199
+      },
+      {
+        "is_correct": false,
+        "alternative": "Pertukaran nilai-nilai budaya positif",
+        "id": 968,
+        "question_id": 199
+      },
+      {
+        "is_correct": true,
+        "alternative": "Penghapusan batas-batas budaya ",
+        "id": 969,
+        "question_id": 199
+      },
+      {
+        "is_correct": false,
+        "alternative": "Meningkatkan rasa saling toleransi",
+        "id": 970,
+        "question_id": 199
+      }],
+    "created_at": {
+      "$date": 1401385897000
+    },
+    "question": "Program Kapal Pemuda ASEAN dan Jepang bermanfaat dalam hal-hal berikut, kecuali...",
+    "id": 199,
+    "id_google": 1155,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Pelengkap",
+      "id": 971,
+      "question_id": 200
+    },
+      {
+        "is_correct": true,
+        "alternative": "Unsur;",
+        "id": 972,
+        "question_id": 200
+      },
+      {
+        "is_correct": false,
+        "alternative": "Pendamping",
+        "id": 973,
+        "question_id": 200
+      },
+      {
+        "is_correct": false,
+        "alternative": "Penunjang",
+        "id": 974,
+        "question_id": 200
+      },
+      {
+        "is_correct": false,
+        "alternative": "Pelengkap",
+        "id": 975,
+        "question_id": 200
+      }],
+    "created_at": {
+      "$date": 1401386350000
+    },
+    "question": "Kedudukan budaya daerah dalam rangka pembinaan kebudayaan nasional adalah sebagai...",
+    "id": 200,
+    "id_google": 1156,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Mendukung program wajib belajar 9 tahun",
+      "id": 976,
+      "question_id": 201
+    },
+      {
+        "is_correct": false,
+        "alternative": "Meningkatkan kecerdasan masyarakat",
+        "id": 977,
+        "question_id": 201
+      },
+      {
+        "is_correct": true,
+        "alternative": "Memberantas buta pengetahuan dasar ",
+        "id": 978,
+        "question_id": 201
+      },
+      {
+        "is_correct": false,
+        "alternative": "Memberikan bekal keterampilan",
+        "id": 979,
+        "question_id": 201
+      }],
+    "created_at": {
+      "$date": 1401386431000
+    },
+    "question": "Menteri-menteri lingkungan hidup dari Negara-negara anggota ASEAN dewasa ini menggalang dukungan untuk ...",
+    "id": 201,
+    "id_google": 1153,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Peningkatan sarana social",
+      "id": 980,
+      "question_id": 202
+    },
+      {
+        "is_correct": false,
+        "alternative": "Penyediaan lapangan kerja",
+        "id": 981,
+        "question_id": 202
+      },
+      {
+        "is_correct": false,
+        "alternative": "Perumahan yang memadai",
+        "id": 982,
+        "question_id": 202
+      },
+      {
+        "is_correct": true,
+        "alternative": "Pemerataan lapangan kerja",
+        "id": 983,
+        "question_id": 202
+      }],
+    "created_at": {
+      "$date": 1401401284000
+    },
+    "question": "Pemindahan penduduk dari satu pulau ke pulau yang lain, yang dikenal dengan program transmigrasi, akan lebih efektif apabila dilakukan dengan...",
+    "id": 202,
+    "id_google": 1148,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Menunjang kelancaran pembangunan",
+      "id": 984,
+      "question_id": 204
+    },
+      {
+        "is_correct": false,
+        "alternative": "Mengembangkan desa yang tertinggal",
+        "id": 985,
+        "question_id": 204
+      },
+      {
+        "is_correct": false,
+        "alternative": "Memberantas masalah kemiskinan",
+        "id": 986,
+        "question_id": 204
+      },
+      {
+        "is_correct": true,
+        "alternative": "Mengatasai dampak krisis ekonomi",
+        "id": 987,
+        "question_id": 204
+      },
+      {
+        "is_correct": false,
+        "alternative": "Membangun daerah pelosok",
+        "id": 988,
+        "question_id": 204
+      }],
+    "created_at": {
+      "$date": 1401402010000
+    },
+    "question": "Dana Jaringan Pengaman Sosial (JPS) yang disalurkan oleh Pemerintah bertujuan untuk...",
+    "id": 204,
+    "id_google": 1150,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Mengusahakan modal yang memadai",
+      "id": 989,
+      "question_id": 205
+    },
+      {
+        "is_correct": false,
+        "alternative": "Meningkatkan sumber daya manusia",
+        "id": 990,
+        "question_id": 205
+      },
+      {
+        "is_correct": false,
+        "alternative": "Mengolah kekayaan alam yang melimpah",
+        "id": 991,
+        "question_id": 205
+      },
+      {
+        "is_correct": false,
+        "alternative": "Mendapat bantuan teknologi tinggi",
+        "id": 992,
+        "question_id": 205
+      }],
+    "created_at": {
+      "$date": 1401402062000
+    },
+    "question": "Tantangan yang dihadapi bangsa indonesia dalam menyongsong pasaran bebas Asia Pasifik tahun 2020, harus dijawab terutama dengan...",
+    "id": 205,
+    "id_google": 1151,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Menghidupkan pasar mobil yang lesu",
+      "id": 993,
+      "question_id": 206
+    },
+      {
+        "is_correct": true,
+        "alternative": "Memacu pertumbuhan industri mobil",
+        "id": 994,
+        "question_id": 206
+      },
+      {
+        "is_correct": false,
+        "alternative": "Meningkatkan jumlah ekspor mobil",
+        "id": 995,
+        "question_id": 206
+      },
+      {
+        "is_correct": false,
+        "alternative": "rMembatasi penggunaan mobil impor",
+        "id": 996,
+        "question_id": 206
+      }],
+    "created_at": {
+      "$date": 1401402326000
+    },
+    "question": "Deregulasi automotif automotif yang dilakukan oleh Pemerintah pertengahan tahun 1999, diharapkan memberi dampak positif dalam rangka...",
+    "id": 206,
+    "id_google": 1149,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Mendorong perkembangan usaha swasta",
+      "id": 997,
+      "question_id": 207
+    },
+      {
+        "is_correct": false,
+        "alternative": "Melunasi hutang perusahaan swasta nasional",
+        "id": 998,
+        "question_id": 207
+      },
+      {
+        "is_correct": false,
+        "alternative": "Menutupi kekurangan anggaran pembangunan",
+        "id": 999,
+        "question_id": 207
+      },
+      {
+        "is_correct": true,
+        "alternative": "Memacu pertumbuhan ekonomi nasional",
+        "id": 1000,
+        "question_id": 207
+      },
+      {
+        "is_correct": false,
+        "alternative": "Mendorong tumbuhnya lapangan pekerjaan baru",
+        "id": 1001,
+        "question_id": 207
+      }],
+    "created_at": {
+      "$date": 1401402553000
+    },
+    "question": "Pemerintah telah menerbitkan dan menjual obligasi senilai Rp. 157,6 triliun, tujuan utamanya adalah..",
+    "id": 207,
+    "id_google": 1147,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": true,
+      "alternative": "Unsur budaya asing berkembang pesat",
+      "id": 1002,
+      "question_id": 208
+    },
+      {
+        "is_correct": false,
+        "alternative": "Perkembangan ilmu pengetahuan",
+        "id": 1003,
+        "question_id": 208
+      },
+      {
+        "is_correct": false,
+        "alternative": "Kebeanian mengekspresikan opini",
+        "id": 1004,
+        "question_id": 208
+      },
+      {
+        "is_correct": false,
+        "alternative": "Kontrol masyarakat terhadap pemerintah",
+        "id": 1005,
+        "question_id": 208
+      }],
+    "created_at": {
+      "$date": 1401402929000
+    },
+    "question": "Berikut ini pengaruh positif dari kebijakan kebebasan pers yang dikeluarkan oleh pemerintah, kecuali...",
+    "id": 208,
+    "id_google": 1139,
+    "answer": "",
+    "type_question": 1
+  },
+  {
+    "comment": "",
+    "id_category": 5,
+    "alternatives": [{
+      "is_correct": false,
+      "alternative": "Kebijakan pemerintah dalam mengatur lembaga tertinggi Negara",
+      "id": 1006,
+      "question_id": 209
+    },
+      {
+        "is_correct": true,
+        "alternative": "Konfigurasi politik dan pengelompokkan fungsional dalam masyarakat ",
+        "id": 1007,
+        "question_id": 209
+      },
+      {
+        "is_correct": false,
+        "alternative": "Perimbangan kekuasaan pemerintahan yang disepakati bersama",
+        "id": 1008,
+        "question_id": 209
+      },
+      {
+        "is_correct": false,
+        "alternative": "Pembagian kekuasaan legislative pada tingkat lembaga tertinggi Negara",
+        "id": 1009,
+        "question_id": 209
+      }],
+    "created_at": {
+      "$date": 1401404336000
+    },
+    "question": "Fraksi-fraksi yang ada di Majelis Permusyawaratan Rakyat merupakan pengelompokkan anggota yang mencerminkan...",
+    "id": 209,
+    "id_google": 1123,
+    "answer": "",
+    "type_question": 1
+  }]
